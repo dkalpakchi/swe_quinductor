@@ -1,0 +1,753 @@
+id: templates1
+visum är ett tillstånd för att resa in och vara i ett land under en kortare tid. | vad är ett visum? | ett tillstånd för att resa in och vara i ett land
+
+id: templates2
+ett uppehållstillstånd för besök gäller som längst upp till ett år, men oftast högst sex månader. | hur länge gäller ett uppehållstillstånd för besök som längst? | ett år
+ett uppehållstillstånd för besök gäller som längst upp till ett år, men oftast högst sex månader. | hur länge gäller ett uppehållstillstånd för besök som längst? | ett år
+
+id: templates3
+om du inte lämnar sverige inom den tid som står i beslutet kan du få ett återreseförbud som innebär att du inte får återvända till något av schengenländerna eller rumänien, bulgarien och kroatien. | vad innebär ett återreseförbud? | att du inte får återvända till något av schengenländerna
+
+id: templates4
+om man vill starta eget elinstallationsföretag, måste man själv vara auktoriserad elinstallatör eller knyta en auktoriserad elinstallatör till företaget. | vad måste man göra för att starta eget elinstallationsföretag? | vara auktoriserad elinstallatör eller knyta en auktoriserad elinstallatör till företaget
+
+id: templates5
+i lärarens arbete ingår, förutom undervisning, också mycket annat så som föräldramöten och kompetensutveckling. | vad, förutom undervisning, ingår i lärarens arbete? | föräldramöten
+i lärarens arbete ingår, förutom undervisning, också mycket annat så som föräldramöten och kompetensutveckling. | vad, förutom undervisning, ingår i lärarens arbete? | föräldramöten
+
+id: templates6
+föreskrifterna riktar sig till arbetsgivare, uppdragsgivare, skolhuvudmän och praktikgivare som låter minderåriga utföra arbete. | vilka riktar sig föreskrifterna till? | arbetsgivare
+
+id: templates7
+16 myndigheter i sverige utför marknadskontroll. | hur många myndigheter i sverige utför marknadskontroll? | 16
+
+id: templates8
+om reglerna har ersatts av kollektivavtal är det istället de fackliga organisationerna och arbetsgivaren som ska bevaka att avtalet följs, varken skyddsombud eller arbetsmiljöverket kan agera då. | vilka ska bevaka att avtalet följs om reglerna har ersatts av kollektivavtal? | de fackliga organisationerna och arbetsgivaren
+
+id: templates9
+i fristående skolor är huvudmannen arbetsgivare och ytterst ansvarig för arbetsmiljön. | vem är arbetsgivare och ytterst ansvarig för arbetsmiljön i fristående skolor? | huvudmannen
+
+id: templates10
+forum för att samverka kring arbetsmiljöfrågor är till exempel arbetsplatsträffar, medarbetarsamtal och skyddskommittémöten. | vad är exempel på forum för att samverka kring arbetsmiljöfrågor? | arbetsplatsträffar
+
+id: templates11
+elevrådet representerar hela skolan. | vilka representerar elevrådet? | hela skolan
+
+id: templates12
+hästskötare arbetar i stall, ridskolor eller vid stuterier. | var arbetar hästskötare? | vid stuterier
+
+id: templates13
+konstsmeder arbetar i små verkstäder. | var arbetar konstsmeder? | i små verkstäder
+
+id: templates14
+reparationsarbete innebär oftast att den del det är fel på byts ut. | vad innebär reparationsarbete? | att den del det är fel på byts ut
+eu-samarbetet innebär bland annat att eu-medborgare och deras familjer har rätt att flytta till ett annat eu-land så länge vissa krav är uppfyllda. | vad innebär eu-samarbetet? | att eu-medborgare och deras familjer har rätt att flytta till ett annat eu-land
+medlevarskap innebär att man arbetar som om man bodde på institutionen. | vad innebär medlevarskap? | att man arbetar som om man bodde på institutionen
+
+id: templates15
+översiktsplanen visar mer översiktligt hur en hel kommun eller ny stadsdel ska utformas och detaljplanen reglerar hur mark- och vattenområden ska användas inom ett mindre geografiskt område. | vad visar översiktsplanen? | hur en hel kommun eller ny stadsdel ska utformas
+
+id: templates16
+maskering innebär att täcka den yta på fordonet som inte ska bearbetas. | vad innebär maskering? | att täcka den yta på fordonet som inte ska bearbetas
+
+id: templates17
+om du inte befinner dig i sverige och ditt uppehållstillstånd inte längre är giltigt ska du ansöka om ett nytt om du vill resa tillbaka till sverige. | vad ska du göra om du vill resa tillbaka till sverige och ditt uppehållstillstånd inte längre är giltigt? | ansöka om ett nytt
+
+id: templates18
+för att migrationsverket ska kunna fatta beslut i ditt ärende krävs det att alla uppgifter är ifyllda och alla nödvändiga dokument finns med. | vad krävs för att migrationsverket ska kunna fatta beslut i ditt ärende? | att alla uppgifter är ifyllda
+
+id: templates19
+om du är medborgare i ett land utanför eu och vill flytta till en familjemedlem i sverige behöver du uppehållstillstånd. | vad behöver du om du är medborgare i ett land utanför eu och vill flytta till en familjemedlem i sverige? | uppehållstillstånd
+
+id: templates20
+ofta behövs mätningar över långa tidsperioder för att kunna se om en förändring orsakas av mänsklig påverkan eller är en naturlig variation. | vad behövs för att kunna se om en förändring orsakas av mänsklig påverkan eller är en naturlig variation? | mätningar över långa tidsperioder
+
+id: templates21
+om begravningen hålls i en kyrka bokas tid med präst och kyrkomusiker. | vad bokas om begravningen hålls i en kyrka? | präst
+
+id: templates22
+om du inte ansöker på webben betalar du avgiften via bankgironummer 5223-7005. | vilket bankgironummer betalar du avgiften via om du inte ansöker på webben? | 5223-7005
+
+id: templates23
+politiker måste alltid förvissa sig om att arbetstagarna inte utsätts för risker för ohälsa eller olycksfall i arbetet. | vad måste politiker alltid förvissa sig om? | att arbetstagarna inte utsätts för risker för ohälsa eller olycksfall i arbetet
+
+id: templates24
+om ditt ärende överlämnas till polisen har du inte längre rätt till någon form av kontantstöd. | vad har du inte längre rätt till om ditt ärende överlämnas till polisen? | kontantstöd
+
+id: templates25
+rätten för eu-medborgare att vistas i sverige utan uppehållstillstånd kallas uppehållsrätt. | vad kallas rätten för eu-medborgare att vistas i sverige utan uppehållstillstånd? | uppehållsrätt
+
+id: templates26
+i arbetet ingår att förbereda och salta olika köttvaror samt att tillverka charkuterivaror, som till exempel leverpastej och blodpudding. | vad är ett exempel på charkuterivaror? | leverpastej
+
+id: templates27
+myndigheten ser till att den som har rätt till pengar får in dem och att den som har en skuld att betala får stöd och vägledning för att reda ut sin situation. | vem får stöd och vägledning för att reda ut sin situation? | den som har en skuld att betala
+
+id: templates28
+det kan också vara sinnesstimulerande aktiviteter som bad, massage, musik eller sjukgymnastik. | vad är ett exempel på sinnesstimulerande aktiviteter? | massage
+
+id: templates29
+inom gruppboenden kan det röra sig om att stötta och hjälpa till vid vardagliga sysslor som matlagning och städning. | vad är ett exempel på vardagliga sysslor? | städning
+
+id: templates30
+om din familjemedlem har haft ett uppehållstillstånd som har varit giltigt i 13 månader kan ni få ett nytt uppehållstillstånd på två år. | vad kan ni få om din familjemedlem har haft ett uppehållstillstånd som har varit giltigt i 13 månader? | ett nytt uppehållstillstånd på två år
+
+id: templates31
+för att ge rätt information måste bilförsäljaren kunna en hel del fakta om bilarna de säljer. | vad måste bilförsäljaren kunna för att ge rätt information? | fakta om bilarna de säljer
+
+id: templates32
+psykologen kan hjälpa till att hantera konflikt- och krissituationer på arbetsplatser. | vad kan psykologen hjälpa till med att hantera på arbetsplatser? | konflikt- och krissituationer
+
+id: templates33
+modersmålslärare med grundskollärarutbildning undervisar också i andra ämnen. | vad gör modersmålslärare med grundskollärarutbildning? | undervisar också i andra ämnen
+
+id: templates34
+en kallskänkschef beställer varor och kan också ha hand om planeringen av matsedel. | vad gör en kallskänkschef? | beställer varor
+
+id: templates35
+en så kallad linjebok beskriver banan och de vägsignaler som finns längs sträckan. | vad gör en så kallad linjebok? | beskriver banan och de vägsignaler som finns längs sträckan
+
+id: templates36
+skattehandläggare som arbetar med borgenärsverksamhet hanterar uppgifter som rör konkurser och skuldsanering. | vad gör skattehandläggare som arbetar med borgenärsverksamhet? | hanterar uppgifter som rör konkurser och skuldsanering
+
+id: templates37
+ronderande väktare åker runt och bevakar flera olika fastigheter, så som butiker, kontor och industrier. | vad gör ronderande väktare? | åker runt och bevakar flera olika fastigheter
+
+id: templates38
+en förbundsjurist företräder en organisation och ger råd till medlemmar. | vad gör en förbundsjurist? | företräder en organisation och ger råd till medlemmar
+
+id: templates39
+en varumottagare tar emot varor via automatiska band, eller via portar och lastluckor, och kontrollerar att det är rätt produkt och mängd. | vad gör en varumottagare? | tar emot varor
+
+id: templates40
+ofta behövs språkkunskaper i tullen och på färjorna. | vad behövs ofta i tullen och på färjorna? | språkkunskaper
+
+id: templates41
+de övervakar och kontrollerar så kallade brandväggar, dvs. dataprogram som förhindrar intrång i systemen. | vad är brandväggar? | dataprogram som förhindrar intrång i systemen
+
+id: templates42
+man hanterar trossar (de mkt grova rep som används vid förtöjning och avfärd), håller utkik från bryggan och går säkerhetsrundor. | vad är trossar? | grova rep som används vid förtöjning
+
+id: templates43
+kombinationen fysik och matematik med inriktning mot medicinska och biologiska tillämpningar gör radiofysik till ett tvärvetenskapligt ämne. | vad är radiofysik? | ett tvärvetenskapligt ämne
+
+id: templates44
+monteringsarbetet börjar med att rambalkar tillverkas och monteras till en ram. | vad börjar monteringsarbetet med? | att rambalkar tillverkas och monteras till en ram
+bildkomposition handlar om att se hur olika delar i en bild samspelar med varandra. | vad handlar bildkomposition om? | att se hur olika delar i en bild samspelar med varandra
+
+id: templates45
+instruktörsdelen består av att instruera utövarna i idrotten, att hålla i teknikträningar och i fysisk träning samt att vara med på matcher och tävlingar. | vad består instruktörsdelen av? | att hålla i teknikträningar
+
+id: templates46
+arbetsförmedlarens uppdrag är att via matchning sammanföra arbetsgivare som söker arbetskraft med arbetssökande som söker arbete. | vad kan arbetsgivare söka? | arbetskraft
+
+id: templates47
+om migrationsverket avslår din ansökan betyder det att du inte har rätt till uppehållstillstånd i sverige. | vad betyder det om migrationsverket avslår din ansökan? | att du inte har rätt till uppehållstillstånd i sverige
+
+id: templates48
+innan du besöker migrationsverket behöver du boka tid. | vad behöver du göra innan du besöker migrationsverket? | boka tid
+när beslutet har fått laga kraft och inte längre går att överklaga måste du lämna sverige. | vad måste du göra när beslutet har fått laga kraft och inte längre går att överklaga? | lämna sverige
+för att få fram en sammanställning över samtliga kontrolluppgifter måste du kontakta skatteverket. | vad måste du göra för att få fram en sammanställning över samtliga kontrolluppgifter? | kontakta skatteverket
+
+id: templates49
+om du vill hämta ditt främlingspass på en annan ort ska du tala med personalen om detta när du lämnar in din ansökan. | vad ska du göra om du vill hämta ditt främlingspass på en annan ort? | tala med personalen om detta när du lämnar in din ansökan
+
+id: templates50
+för att ge rätt behandling behöver massören samtala med sina kunder för att skapa en bild av kundens behov. | vad behöver massören göra för att ge rätt behandling? | skapa en bild av kundens behov
+
+id: templates51
+för den som arbetar som djurvårdare på djurpark kan det även ingå i arbetet att ge information till barn och andra besökare. | vad kan ingå i arbetet som djurvårdare på djurpark? | att ge information till barn och andra besökare
+
+id: templates52
+seminering kan vara en arbetsuppgift för djurskötare och innebär att man befruktar hondjur på konstgjord väg. | vad innebär seminering? | att man befruktar hondjur på konstgjord väg
+
+id: templates53
+primärvård är en del av den öppna hälso- och sjukvården och innebär vård utanför sjukhusen. | vad innebär primärvård? | vård utanför sjukhusen
+
+id: templates54
+numera gör cad/cam-teknik det möjligt att tillverka modeller av vax eller plast för senare avgjutning och serietillverkning i ädelmetaller. | vad gör det möjligt att tillverka modeller av vax eller plast för senare avgjutning? | cad/cam-teknik
+
+id: templates55
+sakralsilver är kyrkosilver med allt från ljusstakar till kors och bägare och andra föremål. | vad är sakralsilver? | kyrkosilver
+
+id: templates56
+vanliga behandlingsmetoder av metallerna är slipning och polering. | vad är vanliga behandlingsmetoder av metallerna? | slipning och polering
+
+id: templates57
+en alternativ väg till grundutbildning är via vuxenutbildning. | vad är en alternativ väg till grundutbildning? | vuxenutbildning
+
+id: templates58
+vanliga arbetsuppgifter för gymnasieekonomer är administration av löner och handläggning av låneansökningar. | vad är vanliga arbetsuppgifter för gymnasieekonomer? | administration av löner
+
+id: templates59
+sista dagen för att ansöka om uppehållstillstånd enligt den nya gymnasielagen var den 30 september 2018. | när var sista dagen för att ansöka om uppehållstillstånd enligt den nya gymnasielagen? | den 30 september 2018
+
+id: templates60
+ett friskvårdsombud ska motivera och hjälpa de anställda inom företaget till en bättre hälsa. | vad ska ett friskvårdsombud göra? | motivera och hjälpa de anställda inom företaget till en bättre hälsa
+
+id: templates61
+alla grundskolor måste dock följa samma läroplan och innehållet i skollagen. | vad måste alla grundskolor göra? | följa samma läroplan
+
+id: templates62
+för att migrationsverket ska kunna fatta beslut i ditt ärende krävs det att alla uppgifter är ifyllda och alla nödvändiga dokument finns med. | vad krävs för att migrationsverket ska kunna fatta beslut? | att alla uppgifter är ifyllda och alla nödvändiga dokument finns med
+
+id: templates63
+logistiker kan också styra lagret och boka lagerutrymme när nya produkter ska komma in, sköta systemen för lagersaldo eller se till att alla material finns på plats när de behövs i produktionen eller hos kund. | vad kan logistiker göra när nya produkter ska komma in? | boka lagerutrymme
+
+id: templates64
+i arbetet med testfallen är det viktigt att vara uppmärksam så att man upptäcker alla eventuella fel och ologiska lösningar i det nya programmet eller systemet. | vad vill man upptäcka i det nya programmet eller systemet? | eventuella fel
+
+id: templates65
+i arbetet med testfallen är det viktigt att vara uppmärksam så att man upptäcker alla eventuella fel och ologiska lösningar i det nya programmet eller systemet. | vad är viktigt i arbetet med testfallen? | att vara uppmärksam
+
+id: templates66
+under sommaren är det vanligare att arbeta utomhus och på vintern inomhus. | vad är vanligare under sommaren? | att arbeta utomhus
+
+id: templates67
+på små radiostationer är det vanligt att den som sänder programmet sköter ljudtekniken själv. | vad är vanligt på små radiostationer? | att den som sänder programmet sköter ljudtekniken själv
+
+id: templates68
+en viktig del i lantbrukarens arbete är ekonomisk redovisning av inköp och försäljning och annat administrativt arbete. | vad är ett exempel på administrativt arbete? | ekonomisk redovisning
+
+id: templates69
+de flesta kuratorer arbetar inom hälso- och sjukvården. | var arbetar de flesta kuratorer? | inom hälso- och sjukvården
+ett fåtal optiker arbetar på syncentraler inom landstingen. | var arbetar ett fåtal optiker? | på syncentraler inom landstingen
+
+id: templates70
+en viktig uppgift inom kommunal vuxenutbildning är att göra individuella studieplaner tillsammans med eleverna. | vad är en viktig uppgift inom kommunal vuxenutbildning? | att göra individuella studieplaner
+
+id: templates71
+huvudsysslan för en hudterapeut är att arbeta med olika ansiktsbehandlingar. | vad är huvudsysslan för en hudterapeut? | att arbeta med olika ansiktsbehandlingar
+
+id: templates72
+en av utgångspunkterna för flyktingkonventionen är att den egna staten ska erbjuda sina egna medborgare skydd undan förföljelse. | vad är en av utgångspunkterna för flyktingkonventionen? | att den egna staten ska erbjuda sina egna medborgare skydd undan förföljelse
+
+id: templates73
+pizzabagare som är egna företagare sköter också inköp, marknadsföring, personal, budget och redovisning. | vad sköter pizzabagare som är egna företagare? | redovisning
+
+id: templates74
+en växande uppgift för radiofysiker är att bedöma risker från strålning, till exempel från mobiltelefoner, datorer och kraftledningar. | vad är en växande uppgift för radiofysiker? | att bedöma risker från strålning
+
+id: templates75
+ha ett medgivande från dina vårdnadshavare om du är under 18 år. | när måste du ha ett medgivande från dina vårdnadshavare? | om du är under 18 år
+
+id: templates76
+för studier på deltid beviljas uppehållstillstånd bara i undantagsfall, till exempel vid sjukdom, funktionsnedsättning eller om du har behov av att komplettera en utländsk utbildning. | när kan uppehållstillstånd för studier på deltid beviljas? | om du har behov av att komplettera en utländsk utbildning
+
+id: templates77
+de samlar också in och transporterar miljöfarligt avfall, till exempel batterier och kemikalier, från miljöstationer och industrier. | vad är exempel på miljöfarligt avfall? | batterier
+
+id: templates78
+när översynen är färdig kontrollerar flygteknikern att arbetet är korrekt utfört. | vem kontrollerar att arbetet är korrekt utfört efter översynen? | flygteknikern
+
+id: templates79
+det är inte heller ovanligt att man får utföra en mängd olika ventilationsarbeten så som rengöring och injustering. | vad är ett exempel på ventilationsarbeten? | injustering
+
+id: templates80
+ibland används olika typer av mätinstrument samt olika maskinella rengöringsredskap, t.ex. tryckluft, roterande borstar, högtryckstvättar m.m. | vad är exempel på maskinella rengöringsredskap? | högtryckstvättar
+
+id: templates81
+det är vanligt att frilansa, vilket innebär att ta kortare eller längre uppdrag som egenföretagare eller som tillfälligt anställd. | vad innebär det att frilansa? | att ta kortare eller längre uppdrag som egenföretagare
+
+id: templates82
+vid förhandlingar företräder personalspecialisten arbetsgivaren. | vem företräder personalspecialisten vid förhandlingar? | arbetsgivaren
+
+id: templates83
+i rutan "meddelande till betalningsmottagaren" skriver du förnamn och efternamn på den person ansökningsavgiften gäller samt personnummer. | vad skriver du i rutan "meddelande till betalningsmottagaren"? | förnamn och efternamn på den person ansökningsavgiften gäller
+
+id: templates84
+i slutet av varje mandatperiod redovisar regeringen även vilka insatser som gjorts för miljömålen i en skrivelse till riksdagen. | vad redovisar regeringen i slutet av varje mandatperiod? | vilka insatser som gjorts för miljömålen
+
+id: templates85
+inom entreprenadborrning kan arbetet handla om att borra grundläggning inom ett anläggningsprojekt. | vad kan arbetet inom entreprenadborrning handla om? | att borra grundläggning inom ett anläggningsprojekt
+
+id: templates86
+ibland gör man kundbesök för att undersöka marken där borrningen ska utföras. | vad gör man för att undersöka marken där borrningen ska utföras? | kundbesök
+
+id: templates87
+● borrning av energibrunnar för utvinning av geoenergi, till exempel bergvärme | vad är exempel på geoenergi? | bergvärme
+
+id: templates88
+för att kunna arbeta självständigt som arkitekt krävs vanligen flera års erfarenhet av praktiskt arbete. | vad krävs vanligen för att kunna arbeta självständigt som arkitekt? | flera års erfarenhet av praktiskt arbete
+
+id: templates89
+för att kunna söka plats som larmoperatör krävs vanligtvis att man har genomgått gymnasieutbildning och väktarutbildning och att man behärskar svenska och engelska i tal och skrift. | vad krävs vanligtvis för att kunna söka plats som larmoperatör? | att man har genomgått gymnasieutbildning och väktarutbildning
+
+id: templates90
+larm- och säkerhetsteknikern kan även ansluta larmet till kundernas nätverk för att öka bekvämligheten och möjligheten att styra andra system. | vad kan säkerhetsteknikern göra för att öka bekvämligheten att styra andra system? | ansluta larmet till kundernas nätverk
+
+id: templates91
+en allt större del av tillverkningen sker med datorstyrda maskiner och då kan programmering ingå i arbetet. | vad kan ingå i arbetet när tillverkningen sker med datorstyrda maskiner? | programmering
+
+id: templates92
+skogskonsulenter kan också ta konsultuppdrag som till exempel att ta fram skogsbruksplaner. | vad är ett exempel på konsultuppdrag som skogskonsulenter kan ta? | att ta fram skogsbruksplaner
+
+id: templates93
+det är vanligt att barmästaren lägger scheman för personalen och sköter beställning av varor. | vad är det vanligt att barmästaren gör? | lägger scheman för personalen
+
+id: templates94
+en finansekonom i ett större exportföretag kan arbeta med att bedöma risker och säkerheter vid exportaffärer. | vad arbetar en finansekonom i ett större exportföretag med? | att bedöma risker och säkerheter vid exportaffärer
+
+id: templates95
+ytterligare exempel på administrativa uppgifter kan vara att skapa bokningar, event och förhandla om priser. | vad är ett exempel på administrativa uppgifter? | att skapa bokningar
+
+id: templates96
+en del idrottstränare har även budgetansvar och sköter materialinköp, planerar och bokar resor och träningsläger samt deltar i styrelsemöten och ansvarar för att informera press, radio och tv. | vad gör idrottstränare som har budgetansvar? | sköter materialinköp
+
+id: templates97
+som styrman är man ansvarig för att framföra fartyget och för fartygets underhåll. | vad är man ansvarig för som styrman? | att framföra fartyget
+
+id: templates98
+det är befälhavaren som har mest erfarenhet av navigering och ansvar för säkerheten på fartyget. | vem har mest erfarenhet av navigering och ansvar för säkerheten på fartyget? | befälhavaren
+
+id: templates99
+sågverksoperatör är ett gemensamt namn för de som arbetar med att sköta olika slags maskiner i sågverk. | vad är sågverksoperatör ett gemensamt namn för? | de som arbetar med att sköta olika slags maskiner i sågverk
+
+id: templates100
+vissa växter såsom fruktträd beskärs eller sköts på andra sätt. | vilka växter beskärs? | fruktträd
+
+id: templates101
+utgångspunkten för förskolans planering är läroplanen för förskolan. | vad är utgångspunkten för förskolans planering? | läroplanen
+
+id: templates102
+personbilsmekanikern installerar också elektrisk utrustning som gps eller stereo. | vad är exempel på elektrisk utrustning? | stereo
+
+id: templates103
+bilens elektronik är till största delen datorstyrd. | vad är bilens elektronik till största del? | datorstyrd
+
+id: templates104
+i lagerhanteringen ansvarar man för mottagning, påfyllnad, godshantering och utlämning av material. | vad ansvarar man för i lagerhanteringen? | utlämning av material
+
+id: templates105
+teleteknikern gör oftast tekniska beskrivningar av installationerna, för att andra ska förstå hur jobbet är utfört och hur installationen ska användas. | vad gör teleteknikern för att andra ska förstå hur jobbet är utfört? | tekniska beskrivningar av installationerna
+
+id: templates106
+teleteknikern arbetar både med trådlös kommunikation (till exempel wifi och mobiltelefoni) och med trådbunden kommunikation över koppar- eller fiberkabel. | vad är exempel på trådlös kommunikation? | mobiltelefoni
+
+id: templates107
+det blir också allt vanligare att logopeder blir egenföretagare. | vad blir allt vanligare? | att logopeder blir egenföretagare
+
+id: templates108
+om en driftstörning inträffar larmar datorn. | vad gör datorn om en driftstörning inträffar? | larmar
+
+id: templates109
+om något fattas eller är fel noterar varumottagaren det eller kontaktar leverantören. | vad gör varumottagaren om något fattas eller är fel? | kontaktar leverantören
+
+id: templates110
+det är bra om man har god lokalkännedom så man kan välja de transportvägar som är minst trafikerade och som går fortast. | vad kan man göra om man har god lokalkännedom? | välja de transportvägar som är minst trafikerade
+
+id: templates111
+en del budföretag arbetar även med tekniska kurirer, som gör datainstallationer. | vad gör tekniska kurirer? | datainstallationer
+
+id: templates112
+om du behöver ett nytt resedokument måste du lämna in en ny ansökan. | vad ska du göra om du behöver ett nytt resedokument? | lämna in en ny ansökan
+
+id: templates113
+marmorering innebär att skapa en illusion av marmor, medan ådring handlar om att efterlikna trävirke. | vad innebär ådring? | att efterlikna trävirke
+
+id: templates114
+spackel läggs vid ojämnheter och remsor vid skarvar, därefter slipas ytan för att jämna till den ytterligare. | var läggs spackel? | vid ojämnheter och remsor vid skarvar
+
+id: templates115
+spårvagnsförare utbildas internt inom företagen med en handledare och övningskörning. | var utbildas spårvagnsförare? | internt inom företagen
+
+id: templates116
+på mindre anläggningar kan driftteknikern arbeta ensam. | vad kan driftteknikern göra på mindre anläggningar? | arbeta ensam
+
+id: templates117
+vid större olyckor med många skadade behöver ambulanssjuksköterskan prioritera så att den med störst skada får hjälp först. | vad behöver ambulanssjuksköterskan göra vid större olyckor med många skadade? | prioritera
+
+id: templates118
+hos researrangörerna finns reseproducenter som planerar de resor som företaget ska sälja. | vad gör reseproducenter? | planerar de resor som företaget ska sälja
+
+id: templates119
+rekvisitören har stor produktkunskap och ansvarar för att rekvisitan håller hög kvalitet. | vad gör rekvisitören? | ansvarar för att rekvisitan håller hög kvalitet
+
+id: templates120
+läroplanen, inklusive kursplanerna i de olika ämnena, anger målen för elevernas kunskaper och deras sociala och personliga utveckling, men det är upp till läraren och arbetslaget att tillsammans med eleverna planera för innehållet i undervisningen. | vad gör läroplanen? | anger målen för elevernas kunskaper
+
+id: templates121
+kabinchefen håller kontakt med kaptenen och ser till att allting fungerar smidigt ombord. | vad gör kabinchefen? | håller kontakt med kaptenen
+
+id: templates122
+arbetet kan vara fysiskt krävande, men hjälpmedel och byggkranar underlättar arbetet. | vad är exempel på hjälpmedel som underlättar arbetet? | byggkranar
+
+id: templates123
+en del småhus byggs med lösvirke. | vad byggs en del småhus med? | lösvirke
+
+id: templates124
+det kan innebära att man gör utryckningar vid krissituationer till havs såsom oljeutsläpp. | vad är exempel på en krissituation till havs? | oljeutsläpp
+
+id: templates125
+som bilförsäljare kan man också arbeta med leasingverksamhet, vilket innebär biluthyrning under lång tid till privatpersoner och företag. | vad innebär leasingverksamhet? | biluthyrning under lång tid
+
+id: templates126
+man kan även arbeta inom flygplatsernas visitor service som anordnar studiebesök och visningar av flygplatsen. | vad anordnar flygplatsernas visitor service? | visningar av flygplatsen
+
+id: templates127
+(renrum är en miljö där tillverkning eller vetenskaplig forskning bedrivs och som har en kontrollerad nivå av föroreningar). | vad bedrivs i renrum? | forskning
+
+id: templates128
+ibland kan man behöva justera maskinerna för att ändra något i tillverkningen. | varför kan man behöva justera maskinerna? | för att ändra något i tillverkningen
+
+id: templates129
+migrationsverket kan även återkalla uppehållstillståndet. | vad kan migrationsverket göra? | återkalla uppehållstillståndet
+
+id: templates130
+kravprofilen ska sedan matchas mot lämpliga kandidater. | vad ska kravprofilen matchas mot? | lämpliga kandidater
+
+id: templates131
+vid service och underhåll arbetar vs-montörer oftast ensamma. | hur arbetar oftast vs-montörer vid service och underhåll? | ensamma
+
+id: templates132
+den som har blivit dömd till utvisning på grund av brott kan hållas i förvar längre än tolv månader. | hur länge kan den som blivit dömd till utvisning på grund av brott hållas i förvar? | längre än tolv månader
+
+id: templates133
+om migrationsverket avslår din ansökan om uppehållstillstånd betyder det att du inte har rätt till uppehållstillstånd i sverige och att du måste lämna landet om du befinner dig här. | vad betyder det om migrationsverket avslår din ansökan om uppehållstillstånd? | att du måste lämna landet
+
+id: templates134
+för att bredda arbetsuppgifterna och sin service knyter städföretagen ofta till sig andra uppdrag som till exempel arbete i telefonväxel eller reception. | vilka uppdrag knyter städföretagen på sig för att bredda arbetsuppgifterna? | arbete i telefonväxel
+
+id: templates135
+på industrier eller i stora lokaler används ofta städmaskiner för till exempel golvrengöring. | var används ofta städmaskiner? | i stora lokaler
+
+id: templates136
+när du vill ansöka om ett nytt främlingspass måste du bli fotograferad och lämna fingeravtryck igen, eftersom ditt foto och dina fingeravtryck inte finns sparade hos migrationsverket, utan bara i ett datorchip i främlingspasset. | vad måste du göra om du vill ansöka om ett nytt främlingspass? | bli fotograferad och lämna fingeravtryck
+
+id: templates137
+de kunskaper man har efterfrågas också inom företag som arbetar med försäljning och distribution av till exempel plantor, frösorter, maskiner och andra produkter som används inom trädgårdsföretag och lantbruk. | vad är exempel på produkter som används inom trädgårdsföretag? | frösorter
+
+id: templates138
+choklad- och konfektyrtillverkning bedrivs i produktionslinjer som är specialiserade på en viss sorts godis, till exempel praliner, chokladkakor eller skum/gelé. | vad är exempel på godis? | praliner
+
+id: templates139
+de gör binderier till livets lyckliga och sorgsna skeden, så som brudbuketter, tärnbuketter, kyrkdekorationer till bröllop, men också begravningsbinderier som kransar eller kistdekorationer. | vad är exempel på begravningsbinderier? | kistdekorationer
+
+id: templates140
+en viktig del av scenografens arbete handlar om att analysera och tolka manus för att skapa en vision om scenografin. | vad är en viktig del av scenografens arbete? | att analysera och tolka manus
+
+id: templates141
+man bereder kaffe eller andra drycker och hjälper ibland även till med enklare arbete i kallköket, till exempel att förbereda smörgåsar, sallader eller wraps. | vad är exempel på enklare arbete i kallköket? | att förbereda smörgåsar
+
+id: templates142
+till bildlärarens arbetsuppgifter hör också att planera och förbereda lektionerna, köpa in arbetsmaterial och se till att den tekniska utrustningen, till exempel kameror, filmkameror och projektorer fungerar. | vad är exempel på teknisk utrustning? | projektorer
+
+id: templates143
+i många fall görs också en modell av produkten, en så kallad prototyp. | vad är en prototyp? | en modell
+
+id: templates144
+fysiska produkter kan vara verktyg, maskiner, fordon, telefoni eller hemelektronik. | vad är exempel på fysiska produkter? | maskiner
+
+id: templates145
+om migrationsverket avslår din ansökan kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet. | vad kan du göra inom tre veckor om migrationsverket avslår din ansökan? | överklaga
+
+id: templates146
+ett uppehållstillstånd för besök gäller som längst upp till ett år, men oftast högst sex månader. | hur länge gäller oftast ett uppehållstillstånd för besök? | högst sex månader
+
+id: templates147
+en chefssekreterare eller vd-assistent arbetar med administrativt stöd till en chef eller ledningsgrupp. | vad arbetar en vd-assistent med? | administrativt stöd till en chef eller ledningsgrupp
+
+id: templates148
+man väger man upp ingredienser, jäser degar och formar bröd och eller kakor som gräddas. | vad gräddas? | kakor
+
+id: templates149
+som radiofysiker är man expert i olika strålningsfysikaliska frågor. | vad är man expert i som radiofysiker? | strålningsfysikaliska frågor
+
+id: templates150
+när lagen ändras kan företaget behöva förändra i sin verksamhet. | vad kan företag behöva göra när lagen ändras? | förändra i sin verksamhet
+
+id: templates151
+nästan 30 olika svenska myndigheter ska arbeta inom sina respektive verksamhetsområden för att miljömålen ska nås, enligt sina instruktioner eller regleringsbrev. | ungefär hur många myndigheter arbetar för att miljömålen ska nås? | 30
+
+id: templates152
+en illustratör som arbetar med animering av filmer och dataspel kallas vanligtvis för animatör. | vad arbetar en animatör med? | animering av filmer och dataspel
+
+id: templates153
+som nyutbildad arkitekt är det vanligt att under de första åren prova på alla delar i yrket tillsammans med en erfaren arkitekt. | vad är vanligt att man som nyutbildad arkitekt gör? | prova på alla delar i yrket tillsammans med en erfaren arkitekt
+
+id: templates154
+det är vanligt att dansare arbetar utomlands eftersom arbetsmarknaden är begränsad i sverige. | vad är vanligt eftersom arbetsmarknaden är begränsad i sverige? | att dansare arbetar utomlands
+
+id: templates155
+inför en dansuppsättning ägnas mycket tid åt att repetera tillsammans med koreografen och övriga dansare i teamet. | vad ägnas det mycket tid åt inför en dansuppsättning? | att repetera
+
+id: templates156
+ibland kan man behöva justera maskinerna för att ändra något i tillverkningen. | vad kan man behöva justera för att ändra något i tillverkningen? | maskinerna
+
+id: templates157
+i bildbehandlingsprogrammet kan fotografen ändra storlek på bilden, ljus, färg och kontrast beroende på bildens syfte och ändamål. | vad kan fotografen göra i bildbehandlingsprogram? | ändra storlek på bilden
+
+id: templates158
+man kan även fotografera för större organisationer som har behov av löpande foton till exempelvis webbshoppar. | vad är exempel på större organisationer som har behov av löpande foton? | webbshoppar
+
+id: templates159
+utbildningen till sos-operatör är ca 20 veckor lång. | ungefär hur lång är utbildningen till sos-operatör? | 20 veckor
+
+id: templates160
+ibland får distributionselektrikern klättra i höga stolpar eftersom en del av elledningarna hänger i luften. | varför får distributionselektrikern ibland klättra i höga stolpar? | eftersom en del av elledningarna hänger i luften
+
+id: templates161
+ökad konsumtion leder till ökad produktion av kemikalier och varor och då ökar spridningen av farliga ämnen. | vad leder ökad konsumtion till? | ökad produktion av kemikalier
+
+id: templates162
+en kvarnoperatör arbetar med mjöltillverkning vid en kvarn. | vad arbetar en kvarnoperatör med? | mjöltillverkning
+
+id: templates163
+en kyl- och värmepumpmontör arbetar med nyinstallation av värmepumpar och kylanläggningar. | vad arbetar en kyl- och värmepumpmontör med? | nyinstallation av värmepumpar och kylanläggningar
+
+id: templates164
+vid lastning måste man tänka både på i vilken ordning godset ska lossas och hur fordonet blir bäst lastat med tanke på stabilitet och lastsäkring. | vad måste man tänka på vid lastning? | i vilken ordning godset ska lossas
+
+id: templates165
+på en kirurgisk avdelning ligger fokus på operation. | vad är fokus på en kirurgisk avdelning? | operation
+
+id: templates166
+som anställd inom försvarsmakten förbinder man sig till utlandstjänstgöring. | vad förbinder man sig till som anställd inom försvarsmakten? | utlandstjänstgöring
+
+id: templates167
+systemförvaltare arbetar i så gott som alla större organisationer, oavsett bransch, eftersom de finns där det finns datasystem. | varför arbetar systemförvaltare i så gott som alla större organisationer? | eftersom de finns där det finns datasystem
+
+id: templates168
+i vissa butiker kan verkstadsarbete förekomma, till exempel att slipa och montera glas i båge. | vad är exempel på verkstadsarbete? | att slipa och montera glas
+
+id: templates169
+för att migrationsverket ska kunna bedöma om du har rätt att få ett nytt uppehållstillstånd är det viktigt att du beskriver just dina skäl till varför du vill flytta tillbaka till sverige. | vad är viktigt för att migrationsverket ska kunna bedöma om du har rätt till ett nytt uppehållstillstånd? | att du beskriver just dina skäl till varför du vill flytta tillbaka till sverige
+
+id: templates170
+din anknytning till sverige beror till största del på hur lång tid du tidigare bott här. | vad beror din anknytning till sverige till största del på? | hur lång tid du tidigare bott här
+
+id: templates171
+sos-operatörernas arbete handlar om att ta emot samtal, prioritera larm och välja att förmedla rätt hjälpinsats till den som ringer. | vad handlar sos-operatörernas arbete om? | att förmedla rätt hjälpinsats till den som ringer
+
+id: templates172
+man kan även arbeta med att ge råd som rör aktier, fonder, optioner och försäkringar och kan då kallas kvalificerad placeringsrådgivare. | vad kallas ibland den som arbetar med att ge råd som rör aktier, fonder, optioner och försäkringar? | kvalificerad placeringsrådgivare
+
+id: templates173
+elevassistentens grunduppgift är att finnas som stöd och resurs för en eller flera elever. | vad är elevassistentens grunduppgift? | att finnas som stöd och resurs
+
+id: templates174
+undersköterskans arbete handlar ofta om att skapa trygghet, både för vård- och omsorgstagare och anhöriga. | vad handlar ofta undersköterskans arbete om? | att skapa trygghet
+
+id: templates175
+ett uppehållstillstånd för besök gäller som längst upp till ett år, men oftast högst sex månader. | hur många besök gäller ett uppehållstillstånd för? | ett
+
+id: templates176
+du som har tillstånd enligt den så kallade nya gymnasielagen måste visa att du har påbörjat dina studier innan ditt nuvarande tillstånd slutar gälla för att kunna ansöka om förlängt uppehållstillstånd för studier på gymnasial nivå. | vad måste du som har tillstånd enligt den nya gymnasielagen visa för att kunna ansöka om förlängt uppehållstillstånd? | att du har påbörjat dina studier innan ditt nuvarande tillstånd slutar gälla
+
+id: templates177
+efter utbildningen är klar ska kursintyg utfärdas, utvärderingar registreras och ibland har också administratören hand om ekonomin kring utbildningen. | vad ska utfärdas efter utbildningen är klar? | kursintyg
+
+id: templates178
+för att anställas krävs att man blir godkänd för de medicinska krav som ställs för alla som jobbar i säkerhetstjänst på järnväg. | vad krävs för att anställas inom säkerhetstjänst? | att man blir godkänd för de medicinska krav som ställs
+
+id: templates179
+för mer information om el- och energiprogrammet, se gymnasieinfo.se. | var finns mer information om el- och energiprogrammet? | gymnasieinfo.se
+
+id: templates180
+det är mycket viktigt att involvera patienten i behandlingen, vilket innebär att ge kunskap och verktyg för att skapa förändring. | vad innebär det att involvera patienten i behandlingen? | att ge kunskap och verktyg för att skapa förändring
+
+id: templates181
+key account manager är en säljare som är specialiserad på kunder som är särskilt betydelsefulla för företaget, så kallade nyckelkunder. | vad är en key account manager specialiserad på? | kunder som är särskilt betydelsefulla för företaget
+
+id: templates182
+en utesäljare eller fältsäljare arbetar i första hand med att besöka kunderna för att sälja företagets produkter eller tjänster. | vad arbetar en utesäljare med? | med att besöka kunderna för att sälja företagets produkter eller tjänster
+
+id: templates183
+uppsikt innebär att du regelbundet måste anmäla dig hos migrationsverket eller polisen. | vad innebär ett beslut om uppsikt? | att du regelbundet måste anmäla dig hos migrationsverket eller polisen
+
+id: templates184
+du ansöker om ett främlingspass genom att fylla i blanketten ansökan om främlingspass, nummer 190011, och lämna in den vid ett personligt besök på någon av migrationsverkets tillståndsenheter. | vilket nummer har blanketten ansökan om främlingspass? | 190011
+
+id: templates185
+utbildningen till sos-operatör är ca 20 veckor lång. | ungefär hur många veckor är utbildningen till sos-operatör? | 20
+
+id: templates186
+inom havsmiljökonventionen helcoms aktionsplan för östersjön har sverige och andra länder runt östersjön åtagit sig att minska utsläppen fram till 2021. | vilka har åtagit sig att minska utsläppen fram till 2021? | sverige och andra länder runt östersjön
+
+id: templates187
+du ska visa att du har tillräckligt med pengar för uppehället med hjälp av exempelvis kontoutdrag från din bank eller dokument där inbjudaren i sverige lovar att stå för alla kostnader under besöket | vad kan visa att du har tillräckligt med pengar för uppehället? | kontoutdrag från din bank
+
+id: templates188
+vid lastning måste man tänka både på i vilken ordning godset ska lossas och hur fordonet blir bäst lastat med tanke på stabilitet och lastsäkring. | vad är viktigt att tänka på vid lastning? | i vilken ordning godset ska lossas
+
+id: templates189
+många företag vill att man lär sig olika arbetsuppgifter eftersom lagerarbetaren kan få rotera mellan olika avdelningar och stationer. | varför vill många företag att lagerarbetaren lär sig olika arbetsuppgifter? | eftersom lagerarbetaren kan få rotera mellan olika avdelningar
+
+id: templates190
+däckmontören använder en balanseringsmaskin som sätter fart på hjulet och visar var obalansen finns. | vad gör en balanseringsmaskin? | sätter fart på hjulet och visar var obalansen finns
+
+id: templates191
+om du har en auktorisation som elinstallatör i ett annat ees-land eller schweiz kan du ansöka om en motsvarande auktorisation i sverige. | vad kan man göra om man har en auktorisation som elinstallatör i schweiz? | ansöka om en motsvarande auktorisation i sverige
+
+id: templates192
+agenda 2030 som är den överordnade ramen för det globala miljö- och utvecklingsarbetet. | vad är den överordnade ramen för det globala miljö- och utvecklingsarbetet? | agenda 2030
+
+id: templates193
+som bevis för ditt uppehållstillstånd får du ett uppehållstillståndskort. | vad får du som bevis för ditt uppehållstillstånd? | ett uppehållstillståndskort
+
+id: templates194
+för de tekniker som söker nya utmaningar finns det möjlighet att bli servicechef, projektledare eller företagsledare. | vad kan en tekniker som söker nya utmaningar bli? | projektledare
+
+id: templates195
+trafikinspektörer arbetar oftast vid en statlig myndighet, så som trafikverket eller försvarsmakten. | var arbetar oftast trafikinspektörer? | vid en statlig myndighet
+synpedagoger och hörselpedagoger arbetar ofta inom landstingens habiliteringsorganisation med att prova ut olika hjälpmedel och ge kommunikationsträning. | var arbetar ofta synpedagoger? | inom landstingens habiliteringsorganisation
+
+id: templates196
+efter förlossningen undersöker barnmorskan barnet och stödjer mamman vid första amningen. | vad gör barnmorskan efter förlossningen? | stödjer mamman vid första amningen
+
+id: templates197
+vid force majeure – oförutsedda händelser som gör att du inte kan lämna sverige och schengenländerna, till exempel extremt dåligt väder | vad är ett exempel på en oförutsedd händelse som gör att man inte kan lämna sverige? | extremt dåligt väder
+
+id: templates198
+före monteringen av plattor gör plattsättaren ett omfattande och noggrant underarbete som innehåller många moment inom rivning och uppbyggnad. | vad gör en plattsättare före montering? | ett omfattande och noggrant underarbete
+
+id: templates199
+inom havsmiljökonventionen helcoms aktionsplan för östersjön har sverige och andra länder runt östersjön åtagit sig att minska utsläppen fram till 2021. | vilka har åtagit sig att minska utsläppen i östersjön? | sverige och andra länder runt östersjön
+
+id: templates200
+som bergarbetare kan man också lasta bort berg efter sprängningarna. | vad kan en bergarbetare göra efter en sprängning? | lasta bort berg
+
+id: templates201
+man arbetar ofta på beting, vilket innebär att man går hem när man är klar med sitt område. | vad innebär arbete på beting? | att man går hem när man är klar med sitt område
+
+id: templates202
+i storkök, till exempel på sjukhus eller i personalrestauranger tillagas däremot ofta ett fåtal rätter som görs i stora mängder. | var tillagas ofta ett fåtal rätter i stora mängder? | på sjukhus
+
+id: templates203
+observera att du inte får köpa en resa med mellanlandning i ett annat schengenland och att utresebeviset enbart kan lämnas in på svenska flygplatser. | var kan utresebeviset lämnas in? | på svenska flygplatser
+
+id: templates204
+kontakta din kommun för frågor om vuxenutbildning och arbetsförmedlingen för frågor om arbetsmarknadsutbildning | vem kan man kontakta för frågor om arbetsmarknadsutbildning? | arbetsförmedlingen
+
+id: templates205
+revisionsarbetet avslutas med en revisionsberättelse. | vad avslutas ett revisionsarbete med? | en revisionsberättelse
+
+id: templates206
+hem- och konsumentkunskapslärare undervisar främst i grundskolans år 6-9. | var undervisar hem- och konsumentkunskapslärare främst? | i grundskolans år 6-9
+
+id: templates207
+det är vanligt att testledaren fungerar som projektledare och organiserar arbetet för alla som ska vara med och testa. | vad är det vanligt att en testledare också fungerar som? | projektledare
+
+id: templates208
+när utrustning köpts in ansvarar driftteknikern för installationen av datorer, utrustning och datorprogram och för att testa så att de fungerar. | vad ansvarar driftteknikern för när utrustning köpts in? | installationen
+
+id: templates209
+säljaren följer försäljningsstatistik och kundernas köpvanor för att veta mer om hur man säljer bäst till varje enskild kund. | vad gör en säljare för att veta mer om hur man bäst säljer till varje enskild kund? | följer försäljningsstatistik
+
+id: templates210
+den biologiska mångfalden och kulturmiljöerna är beroende av ett fortsatt jordbruk, men också av vilka metoder som används. | vad är den biologiska mångfalden beroende av? | ett fortsatt jordbruk
+
+id: templates211
+talpedagoger fokuserar tal-, språk- och röstsvårigheter så som försenad språkutveckling eller stamning. | vad fokuserar talpedagoger på? | försenad språkutveckling
+
+id: templates212
+det innebär att golvläggaren klär golv och väggar med en vattentät plastmatta, till exempel i ett badrum. | vad gör golvläggaren i ett badrum? | klär golv och väggar med en vattentät plastmatta
+
+id: templates213
+var tredje eller var fjärde vecka har man beredskap och ska då vara tillgänglig dygnet runt. | när ska den som har beredskap vara tillgänglig? | dygnet runt
+
+id: templates214
+en viktig del i röjningsarbetet är att röja fram träd som har höga naturvärden, vilket innebär att träd som är bra för den biologiska mångfalden lämnas kvar. | vad har träd som är bra för den biologiska mångfalden? | höga naturvärden
+
+id: templates215
+röjning är ett säsongsarbete i norra delarna av landet men kan utföras året runt i de delar av landet där det inte kommer snö eller där snömängden är mindre. | var är röjning ett säsongsarbete? | i norra delarna av landet
+
+id: templates216
+inom den största inriktningen laboratoriemedicin arbetar biomedicinska analytiker med att analysera biologiska prover, till exempel blodprover. | vad är exempel på biologiska prover? | blodprover
+
+id: templates217
+det står på visummärket som klistras in i ditt pass hur många dagar du får vistas i schengenländerna. | var står det hur många dagar du får vistas i schengenländerna? | på visummärket som klistras in i ditt pass
+
+id: templates218
+man kan också ha ansvar för tillsyn på stationen, det kan innebära att man tar hand om kvarglömt bagage eller hjälper resenärer tillrätta. | vad innebär det att ha ansvar för tillsyn på stationen? | att man tar hand om kvarglömt bagage eller hjälper resenärer tillrätta
+
+id: templates219
+ett permanent uppehållstillstånd kan återkallas om du flyttar från sverige. | när kan ett permanent uppehållstillstånd återkallas? | om du flyttar från sverige
+
+id: templates220
+de söker fram de rättsregler och den praxis, det vill säga hur man dömt i andra liknande fall, som de kan tillämpa vid rättegången. | vad innebär praxis? | hur man dömt i andra liknande fall
+
+id: templates221
+när leverantörerna lämnat in sina offerter gör inköparen eller upphandlaren en utvärdering, och när den är klar fattar man beslut om vilken eller vilka leverantörer som ska anlitas och skriver avtal med dem. | vad gör inköparen eller upphandlaren när leverantörerna lämnat sina offerter? | en utvärdering
+
+id: templates222
+inköp och upphandlingar ska vara noga planerade. | vad ska inköp och upphandlingar vara? | noga planerade
+
+id: templates223
+som upphandlare måste man ta särskild hänsyn till att arbetet styrs av flera lagar, till exempel lagen om offentlig upphandling som ställer tydliga krav på hur en upphandling ska göras. | vad behöver man som upphandlare ta särskild hänsyn till? | lagar
+
+id: templates224
+de flesta körningarna är korta och sker i eller i närheten av tätorter. | var sker de flesta körningarna? | i eller i närheten av tätorter
+
+id: templates225
+när man flyger på hög höjd och inget ovanligt händer håller ofta autopiloten kursen och flyghöjden. | vem håller ofta kursen och flyghöjden när man flyger på hög höjd och inget ovanligt händer? | autopiloten
+
+id: templates226
+arbetsterapi kan också mildra de svårigheter som följer av åldrande. | vad kan arbetsterapi mildra? | de svårigheter som följer av åldrande
+
+id: templates227
+skriv på ansökningsblanketten när och på vilket sätt du har betalat avgiften. | vad ska du skriva på ansökningsblanketten? | när och på vilket sätt du har betalat avgiften
+
+id: templates228
+saneringsarbetare är oftast anställda vid saneringsföretag. | var är saneringsarbetare oftast anställda? | vid saneringsföretag
+
+id: templates229
+pizzabagare arbetar i pizzabutiker, pizzerior, eller hos ett företag som levererar pizza, så kallade pizzabud eller på en restaurang. | var arbetar en pizzabagare? | i pizzabutiker
+
+id: templates230
+operativt arbete kan handla om att utforma kampanjer, producera informationsmaterial, skriva och publicera för organisationens webbplats, ansvara för redaktionellt innehåll i sociala medier och skriva pressmeddelanden. | vad kan operativt arbete handla om? | att utforma kampanjer
+
+id: templates231
+förskollärare arbetar med barn i förskoleåldern som är mellan ett och sex år gamla. | vad arbetar en förskollärare med? | med barn i förskoleåldern som är mellan ett och sex år gamla
+
+id: templates232
+det står på visummärket som klistras in i ditt pass hur många dagar du får vistas i schengenländerna. | vad står på visummärket? | hur många dagar du får vistas i schengenländerna
+
+id: templates233
+all omvårdnad utgår ifrån ett personcentrerat förhållningssätt, vilket innebär att personen sätts i fokus – inte diagnosen. | vad utgår all omvårdnad från? | ett personcentrerat förhållningssätt
+
+id: templates234
+fakultetsnämnden har det övergripande ansvaret för kvaliteten i mdh:s kärnverksamheter. | vilka har det övergripande ansvaret för kvaliteten i mdh:s kärnverksamheter? | fakultetsnämnden
+
+id: templates235
+i december meddelade kammarrätten att skanska inte beviljats prövningstillstånd och den 28 december kunde avtalet med serneke ingås vilket innebär att byggprocessen nu äntligen kan starta. | när kunde avtalet med serneke ingås? | 28 december
+
+id: templates236
+den 18 januari avslutade karin röding sitt uppdrag som rektor för att tillträda uppdraget som statssekreterare vid utbildningsdepartementet. | när avslutade karin röding sitt uppdrag som rektor? | 18 januari
+
+id: templates237
+förvaltningschef marie eriksson gick i pension i oktober och den 15 november tillträdde ann cederberg som ny förvaltningschef. | när tillträdde ann cederberg som ny förvaltningschef? | 15 november
+
+id: templates238
+nu låter det kanske som jag är alldeles uppslukad av kammarkollegiet 2020 och glömmer det viktigaste: de drygt trettio uppgifter vi har från regeringen. | hur många uppgifter har kammarkollegiet från regeringen? | drygt trettio
+
+id: templates239
+uppsala universitet är ett fullskaligt, internationellt orienterat forskningsuniversitet som bedriver forskning och utbildning inom nio fakulteter organiserade i tre vetenskapsområden; humaniora och samhällsvetenskap, medicin och farmaci samt teknik och naturvetenskap. | hur många fakulteter finns det på uppsala universitet? | nio
+
+id: templates240
+justitiekanslerns egen skadereglering och de rättegångar som den genererar är den del av verksamheten som tar mest resurser i anspråk. | vilken del av justitiekanslerns verksamhet tar mest resurser i anspråk? | justitiekanslerns egen skadereglering och de rättegångar som den genererar
+
+id: templates241
+under 2016 inleddes 13 förundersökningar på det tryck- och yttrandefrihetsrättsliga området och fem åtal väcktes. | hur många förundersökningar inleddes på det tryck- och yttrandefrihetsrättsliga området under 2016? | 13
+
+id: templates242
+tillsyn och skadereglering är de ärendeslag som dominerar verksamheten på myndigheten. | vilka ärendeslag dominerar verksamheten på myndigheten? | tillsyn och skadereglering
+
+id: templates243
+i vår nya modell kommer den regelbundna tillsynen i än högre grad att riktas in mot skolor där risken är hög att det finns allvarliga brister. | vilka skolor riktas den regelbundna tillsynen mot? | skolor där risken är hög att det finns allvarliga brister
+
+id: templates244
+agenda 2030 och de globala målen, där mål 16 handlar om att främja fredliga och inkluderande samhällen för hållbar utveckling och mål 5 om att uppnå jämställdhet och alla kvinnors och flickors egenmakt, är av särskild relevans för fba. | vad handlar mål 5 av de globala målen om? | att uppnå jämställdhet och alla kvinnors och flickors egenmakt
+
+id: templates245
+det innebär att vti under året hade 6 aktiva professorstjänster och 19 doktorander i vti:s doktorandprogram. | hur många professorstjänster hade vti under året? | 6
+
+id: templates246
+förutom de egna samlingarna ansvarar nationalmuseum även för konstsamlingarna på gustavsbergs porslinsmuseum samt de kungliga lustslotten däribland statens porträttsamling på gripsholms slott. | var finns statens porträttsamling? | på gripsholms slott
+
+id: templates247
+myndigheten ska i sitt brottsbekämpande arbete beakta regeringens nationella strategi mot terrorism (skr. 2014/15:146). | vad ska myndigheten beakta i sitt brottsbekämpande arbete? | regeringens nationella strategi mot terrorism
+
+id: templates248
+för två år sedan fick kustbevakningen ett positivt besked om ökat anslag. | vad fick kustbevakningen ett positivt besked om för två år sedan? | ökat anslag
+

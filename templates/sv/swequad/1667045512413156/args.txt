@@ -1,0 +1,1 @@
+Namespace(case_folding=True, data='swequad/training.json', dot_fix=False, force=False, format='tt', idf='idf_sv.csv', join_char=' ', lang='sv', min_support=1, modeldb_url='', no_answers=False, qac_file=None, remove_diacritics=False, remove_punct=False, right_to_left=False, strict=False, template_dir='tmpl', templates='NA')

@@ -1,0 +1,1 @@
+Namespace(case_folding=True, files='swequad/test.json', format='tt', include_gold=True, join_symbol=' ', keep_empty=False, lang='sv', max_examples=200, modeldb_url='', pos_ngrams=None, ranking_folder=PosixPath('tmpl/sv'), remove_diacritics=False, remove_punctuation=False, right_to_left=False, strict=False, templates_folder='tmpl/sv/1667045512413156')

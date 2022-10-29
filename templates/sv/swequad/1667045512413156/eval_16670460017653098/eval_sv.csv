@@ -1,0 +1,258 @@
+Template|Original sentence|Generated question|Generated answer|Score|Qw frequency
+['templates108']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad gör du om du ansöker på en ambassad eller ett generalkonsulat?|betalar|0.06814|0.1663
+['templates108']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad gör du när du lämnar in din ansökan|betalar|0.06446|0.1663
+['templates209']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad gör en du om du ansöker på en ambassad eller ett generalkonsulat|betalar avgiften|0.04750000000000001|0.1663
+['templates209']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad gör en du när du lämnar in din ansökan|betalar avgiften|0.04358000000000001|0.1663
+['templates34', 'templates36', 'templates120']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad gör du|betalar avgiften|0.03678000000000001|0.1663
+['templates86', 'templates105', 'templates221']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad betalar du om du ansöker på en ambassad eller ett generalkonsulat|avgiften|0.036160000000000005|0.0064
+['templates86', 'templates105']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad betalar du när du lämnar in din ansökan|avgiften|0.03248|0.0064
+['templates19']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad betalar om du ansöker på en ambassad eller ett generalkonsulat|avgiften|0.0264|0.0064
+['templates11']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vilka betalar du|avgiften|0.021900000000000003|0.1071
+['templates221']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad betalar du när du lämnar din ansökan|avgiften|0.02152|0.0064
+['templates19']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad betalar när du lämnar in din ansökan|avgiften|0.02144|0.0064
+['templates211']|om du ansöker på en ambassad eller ett generalkonsulat betalar du avgiften när du lämnar in din ansökan.|vad betalar du på|avgiften|0.00808|0.0064
+
+['templates55']|kortet är ett bevis på att du har tillstånd att vara i sverige och innehåller bland annat dina fingeravtryck och foto på dig.|vad är kortet?|bevis|0.02758|0.1151
+['templates1']|kortet är ett bevis på att du har tillstånd att vara i sverige och innehåller bland annat dina fingeravtryck och foto på dig.|vad är ett kortet|ett bevis på att du har tillstånd att vara i sverige och innehåller bland annat dina fingeravtryck och foto på dig|0.0255|0.1151
+
+['templates34']|en sjukskriven medarbetare kostar lågt räknat 2 740 kronor per dag*.|vad gör en sjukskriven medarbetare?|kostar kronor|0.041100000000000005|0.1663
+['templates36']|en sjukskriven medarbetare kostar lågt räknat 2 740 kronor per dag*.|vad gör en sjukskriven medarbetare|kostar lågt räknat 2 740 kronor per dag*|0.041100000000000005|0.1663
+['templates120']|en sjukskriven medarbetare kostar lågt räknat 2 740 kronor per dag*.|vad gör medarbetare|kostar lågt räknat 2 740 kronor per dag*|0.03558000000000001|0.1663
+
+['templates25']|tills året du fyller 16 år räknas du som yngre och äldre barn.|vad räknas du?|barn|0.00542|0.0235
+
+
+['templates33']|"då står det ""long term resident – ec"" på uppehållstill­ståndskortet."|"vad gör ""long term resident – ec""?"|står då på uppehållstill­ståndskortet|0.034300000000000004|0.1663
+['templates206']|"då står det ""long term resident – ec"" på uppehållstill­ståndskortet."|"var står ""long term resident – ec"" då"|på uppehållstill­ståndskortet|0.01514|0.0541
+['templates195']|"då står det ""long term resident – ec"" på uppehållstill­ståndskortet."|var står då resident|på uppehållstill­ståndskortet|0.012340000000000002|0.0541
+['templates13']|"då står det ""long term resident – ec"" på uppehållstill­ståndskortet."|var står resident|på uppehållstill­ståndskortet|0.011780000000000002|0.0541
+['templates69']|"då står det ""long term resident – ec"" på uppehållstill­ståndskortet."|"var står ""long term resident – ec"""|på uppehållstill­ståndskortet|0.01122|0.0541
+['templates233']|"då står det ""long term resident – ec"" på uppehållstill­ståndskortet."|"vad står ""long term resident – ec"" från"|uppehållstill­ståndskortet|0.0025|0.0085
+
+['templates234']|i sällsynta fall granskar arbetsmiljöinspektörer ritningar när stora byggnader och anläggningar ska byggas.|vilka granskar ritningar när stora byggnader och anläggningar ska byggas i sällsynta fall?|arbetsmiljöinspektörer|0.09165999999999999|0.3571
+['templates34']|i sällsynta fall granskar arbetsmiljöinspektörer ritningar när stora byggnader och anläggningar ska byggas.|vad gör arbetsmiljöinspektörer|granskar ritningar|0.03558000000000001|0.1663
+['templates36', 'templates120']|i sällsynta fall granskar arbetsmiljöinspektörer ritningar när stora byggnader och anläggningar ska byggas.|vad gör arbetsmiljöinspektörer|granskar ritningar när stora byggnader och anläggningar ska byggas|0.03558000000000001|0.1663
+['templates121']|i sällsynta fall granskar arbetsmiljöinspektörer ritningar när stora byggnader och anläggningar ska byggas.|vad gör arbetsmiljöinspektörer|granskar ritningar i sällsynta fall|0.03558000000000001|0.1663
+['templates233']|i sällsynta fall granskar arbetsmiljöinspektörer ritningar när stora byggnader och anläggningar ska byggas.|vad granskar arbetsmiljöinspektörer från|sällsynta fall|0.0087|0.0235
+['templates43']|i sällsynta fall granskar arbetsmiljöinspektörer ritningar när stora byggnader och anläggningar ska byggas.|vad är ritningar|sällsynta fall|0.006540000000000001|0.0235
+
+
+['templates13']|en stuntman ersätter filmskådespelare i riskfyllda situationer.|var ersätter stuntman?|i riskfyllda situationer|0.057659999999999996|0.2703
+['templates69']|en stuntman ersätter filmskådespelare i riskfyllda situationer.|var ersätter en stuntman|i riskfyllda situationer|0.056139999999999995|0.2703
+['templates233']|en stuntman ersätter filmskådespelare i riskfyllda situationer.|vad ersätter en stuntman från|riskfyllda situationer|0.04064000000000001|0.162
+['templates34', 'templates36']|en stuntman ersätter filmskådespelare i riskfyllda situationer.|vad gör en stuntman|ersätter filmskådespelare|0.03966000000000001|0.1663
+['templates211']|en stuntman ersätter filmskådespelare i riskfyllda situationer.|vad ersätter stuntman på|filmskådespelare|0.03926|0.1727
+['templates120']|en stuntman ersätter filmskådespelare i riskfyllda situationer.|vad gör stuntman|ersätter filmskådespelare|0.0379|0.1663
+['templates121']|en stuntman ersätter filmskådespelare i riskfyllda situationer.|vad gör stuntman|ersätter filmskådespelare i riskfyllda situationer|0.0379|0.1663
+['templates43']|en stuntman ersätter filmskådespelare i riskfyllda situationer.|vad är filmskådespelare|riskfyllda situationer|0.036640000000000006|0.162
+['templates234']|en stuntman ersätter filmskådespelare i riskfyllda situationer.|vilka ersätter filmskådespelare i riskfyllda situationer|stuntman|0.0218|0.0714
+['templates11']|en stuntman ersätter filmskådespelare i riskfyllda situationer.|vilka ersätter stuntman|filmskådespelare|0.01564|0.0714
+
+['templates12']|bakom en teaterföreställning eller filmproduktion ligger mycket förberedelsearbete.|var ligger förberedelsearbete?|filmproduktion|0.02798|0.1351
+
+['templates108']|arbetsuppgifterna varierar beroende på var man är anställd men den främsta uppgiften är att se till så att hyresgästerna känner sig trygga och nöjda i sin arbets- och boendemiljö.|vad gör arbetsuppgifterna beroende på var man är anställd men den främsta uppgiften är att se till så att hyresgästerna känner sig trygga och nöjda i sin arbets- och boendemiljö?|varierar|0.05262000000000001|0.1663
+
+['templates34']|miljörevisorer granskar företags verksamhet och arbetsrutiner ur miljösynpunkt och ger förslag till förbättringar av miljöarbetet, så att lagar och regler följs och miljömålen kan uppfyllas.|vad gör miljörevisorer?|granskar verksamhet|0.03558000000000001|0.1663
+['templates36', 'templates120']|miljörevisorer granskar företags verksamhet och arbetsrutiner ur miljösynpunkt och ger förslag till förbättringar av miljöarbetet, så att lagar och regler följs och miljömålen kan uppfyllas.|vad gör miljörevisorer|granskar företags verksamhet och arbetsrutiner ur miljösynpunkt|0.03558000000000001|0.1663
+['templates38']|miljörevisorer granskar företags verksamhet och arbetsrutiner ur miljösynpunkt och ger förslag till förbättringar av miljöarbetet, så att lagar och regler följs och miljömålen kan uppfyllas.|vad gör miljörevisorer|granskar företags verksamhet och arbetsrutiner ur miljösynpunkt och ger förslag till förbättringar av miljöarbetet , så att lagar och regler följs och miljömålen kan uppfyllas|0.03558000000000001|0.1663
+['templates73']|miljörevisorer granskar företags verksamhet och arbetsrutiner ur miljösynpunkt och ger förslag till förbättringar av miljöarbetet, så att lagar och regler följs och miljömålen kan uppfyllas.|vad granskar miljörevisorer|arbetsrutiner|0.03472000000000001|0.162
+
+['templates165']|renhållningsarbetare arbetar med avfallshantering på många olika sätt.|vad är renhållningsarbetare på många olika sätt?|avfallshantering|0.05574|0.1727
+['templates165']|renhållningsarbetare arbetar med avfallshantering på många olika sätt.|vad är renhållningsarbetare med avfallshantering|avfallshantering|0.05022|0.1727
+['templates165']|renhållningsarbetare arbetar med avfallshantering på många olika sätt.|vad är renhållningsarbetare på många olika sätt|sätt|0.044219999999999995|0.1151
+['templates165']|renhållningsarbetare arbetar med avfallshantering på många olika sätt.|vad är renhållningsarbetare med avfallshantering|sätt|0.0387|0.1151
+['templates233']|renhållningsarbetare arbetar med avfallshantering på många olika sätt.|vad arbetar renhållningsarbetare från|avfallshantering|0.038540000000000005|0.1727
+['templates13', 'templates69']|renhållningsarbetare arbetar med avfallshantering på många olika sätt.|var arbetar renhållningsarbetare|med avfallshantering|0.027660000000000004|0.1351
+
+['templates69']|inom hälso- och sjukvården arbetar dietisten med nutritionsbehandling och kostrådgivning, både med enskilda patienter och i grupp.|var arbetar dietisten med nutritionsbehandling och kostrådgivning?|inom hälso- och sjukvården|0.14326|0.5135
+['templates13']|inom hälso- och sjukvården arbetar dietisten med nutritionsbehandling och kostrådgivning, både med enskilda patienter och i grupp.|var arbetar dietisten|inom hälso- och sjukvården|0.11366|0.5135
+['templates233']|inom hälso- och sjukvården arbetar dietisten med nutritionsbehandling och kostrådgivning, både med enskilda patienter och i grupp.|vad arbetar dietisten med nutritionsbehandling och kostrådgivning från|hälso- och sjukvården|0.09692|0.3518
+['templates165']|inom hälso- och sjukvården arbetar dietisten med nutritionsbehandling och kostrådgivning, både med enskilda patienter och i grupp.|vad är dietisten både med enskilda patienter och i grupp|patienter|0.05944000000000001|0.162
+['templates165']|inom hälso- och sjukvården arbetar dietisten med nutritionsbehandling och kostrådgivning, både med enskilda patienter och i grupp.|vad är dietisten inom hälso- och sjukvården|patienter|0.04968|0.162
+['templates12']|inom hälso- och sjukvården arbetar dietisten med nutritionsbehandling och kostrådgivning, både med enskilda patienter och i grupp.|var arbetar dietisten|i grupp|0.03798|0.1351
+['templates12']|inom hälso- och sjukvården arbetar dietisten med nutritionsbehandling och kostrådgivning, både med enskilda patienter och i grupp.|var arbetar dietisten|sjukvården|0.01636|0.027
+
+['templates82']|man övervakar anläggningen med hjälp av en dataskärm och ljudsignaler, inklusive hjälpanordningar och styrsystem.|vem övervakar man med hjälp av en dataskärm och ljudsignaler , inklusive hjälpanordningar och styrsystem?|anläggningen|0.21808000000000002|0.9444
+['templates34', 'templates36', 'templates120']|man övervakar anläggningen med hjälp av en dataskärm och ljudsignaler, inklusive hjälpanordningar och styrsystem.|vad gör man|övervakar anläggningen|0.03638|0.1663
+['templates121']|man övervakar anläggningen med hjälp av en dataskärm och ljudsignaler, inklusive hjälpanordningar och styrsystem.|vad gör man|övervakar anläggningen med hjälp av en dataskärm och ljudsignaler , inklusive hjälpanordningar och styrsystem|0.03638|0.1663
+['templates11']|man övervakar anläggningen med hjälp av en dataskärm och ljudsignaler, inklusive hjälpanordningar och styrsystem.|vilka övervakar man|anläggningen|0.021980000000000003|0.1071
+['templates211']|man övervakar anläggningen med hjälp av en dataskärm och ljudsignaler, inklusive hjälpanordningar och styrsystem.|vad övervakar man på|anläggningen|0.00728|0.0064
+
+['templates179']|lämna in blanketten vid en svensk ambassad eller generalkonsulat i landet där du bor.|var finns en svensk ambassad eller generalkonsulat i landet där du bor?|blanketten|0.02844|0.027
+
+['templates117']|du kan då behöva vänta på ditt nya beslut utanför sverige.|vad kan du göra på ditt nya beslut utanför sverige?|vänta|0.055580000000000004|0.1663
+['templates117']|du kan då behöva vänta på ditt nya beslut utanför sverige.|vad behöva du göra på ditt nya beslut utanför sverige|vänta|0.03878000000000001|0.1663
+
+['templates225']|till exempel tillbringar kirurgen en stor del av sin tid i operationssalen, medan en psykiatriker arbetar mycket med samtal med sina patienter.|vem tillbringar till en stor del av sin tid i operationssalen medan en psykiatriker arbetar mycket med samtal med sina patienter?|kirurgen|0.22480000000000003|0.9444
+['templates86']|till exempel tillbringar kirurgen en stor del av sin tid i operationssalen, medan en psykiatriker arbetar mycket med samtal med sina patienter.|vad tillbringar kirurgen medan en psykiatriker arbetar mycket med samtal med sina patienter|del|0.061660000000000006|0.1727
+['templates108']|till exempel tillbringar kirurgen en stor del av sin tid i operationssalen, medan en psykiatriker arbetar mycket med samtal med sina patienter.|vad gör kirurgen medan en psykiatriker arbetar mycket med samtal med sina patienter|tillbringar|0.06038|0.1663
+['templates19']|till exempel tillbringar kirurgen en stor del av sin tid i operationssalen, medan en psykiatriker arbetar mycket med samtal med sina patienter.|vad tillbringar medan en psykiatriker arbetar mycket med samtal med sina patienter|del|0.054860000000000006|0.1727
+['templates209']|till exempel tillbringar kirurgen en stor del av sin tid i operationssalen, medan en psykiatriker arbetar mycket med samtal med sina patienter.|vad gör en kirurg medan en psykiatriker arbetar mycket med samtal med sina patienter|tillbringar del|0.053660000000000006|0.1663
+['templates34']|till exempel tillbringar kirurgen en stor del av sin tid i operationssalen, medan en psykiatriker arbetar mycket med samtal med sina patienter.|vad gör kirurgen|tillbringar del|0.0427|0.1663
+['templates36', 'templates120']|till exempel tillbringar kirurgen en stor del av sin tid i operationssalen, medan en psykiatriker arbetar mycket med samtal med sina patienter.|vad gör kirurgen|tillbringar en stor del av sin tid i operationssalen|0.0427|0.1663
+
+['templates57']|den vanligaste uppgiften är så kallad kronrensning, vilket innebär att man tar bort döda, skadade eller sjuka grenar.|vad är den vanligaste uppgiften?|kronrensning|0.04166|0.1727
+
+['templates211']|man planterar sommarblommor, gödslar, vattnar och klipper gräsmattor, rensar bort ogräs, förebygger sjukdomar på växterna och beskär träd och buskar.|vad planterar man på?|sommarblommor|0.038400000000000004|0.162
+['templates34']|man planterar sommarblommor, gödslar, vattnar och klipper gräsmattor, rensar bort ogräs, förebygger sjukdomar på växterna och beskär träd och buskar.|vad gör man|planterar sommarblommor|0.03638|0.1663
+['templates36', 'templates120']|man planterar sommarblommor, gödslar, vattnar och klipper gräsmattor, rensar bort ogräs, förebygger sjukdomar på växterna och beskär träd och buskar.|vad gör man|planterar sommarblommor , gödslar|0.03638|0.1663
+['templates38']|man planterar sommarblommor, gödslar, vattnar och klipper gräsmattor, rensar bort ogräs, förebygger sjukdomar på växterna och beskär träd och buskar.|vad gör man|planterar sommarblommor , gödslar , rensar bort ogräs , förebygger sjukdomar på växterna och beskär träd och buskar|0.03638|0.1663
+['templates38']|man planterar sommarblommor, gödslar, vattnar och klipper gräsmattor, rensar bort ogräs, förebygger sjukdomar på växterna och beskär träd och buskar.|vad gör man|planterar sommarblommor , gödslar , vattnar och klipper gräsmattor|0.03638|0.1663
+['templates73']|man planterar sommarblommor, gödslar, vattnar och klipper gräsmattor, rensar bort ogräs, förebygger sjukdomar på växterna och beskär träd och buskar.|vad planterar man|gödslar|0.03552|0.162
+
+['templates226']|man behöver också ha en medicinsk rapport för kabinbesättning, en sån kan utfärdas av flygläkare, flygmedicinskt centrum eller företagsläkare.|vad behöver man ha?|en medicinsk rapport|0.0391|0.1727
+['templates61']|man behöver också ha en medicinsk rapport för kabinbesättning, en sån kan utfärdas av flygläkare, flygmedicinskt centrum eller företagsläkare.|vad behöver man göra|ha en medicinsk rapport|0.037820000000000006|0.1663
+['templates129']|man behöver också ha en medicinsk rapport för kabinbesättning, en sån kan utfärdas av flygläkare, flygmedicinskt centrum eller företagsläkare.|vad behöver man göra|ha rapport|0.037820000000000006|0.1663
+
+['templates234']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vilka kontrollerar de olika stegen till färdigt papper?|processoperatörer|0.0819|0.3571
+['templates234']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vilka kontrollerar de olika stegen från massa|processoperatörer|0.0799|0.3571
+['templates234']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vilka kontrollerar de olika stegen i tillverkningen|processoperatörer|0.07941999999999999|0.3571
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad till färdigt papper kontrollerar från massa|massa|0.04646|0.1727
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad i tillverkningen kontrollerar till färdigt papper|massa|0.046060000000000004|0.1727
+['templates165']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är processoperatörer till färdigt papper|massa|0.04566|0.1727
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad från massa kontrollerar till färdigt papper|massa|0.045340000000000005|0.1727
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad till färdigt papper kontrollerar i tillverkningen|massa|0.0451|0.1727
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad i tillverkningen kontrollerar från massa|massa|0.044700000000000004|0.1727
+['templates233']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad kontrollerar processoperatörer inom pappersindustrin från|massa|0.043660000000000004|0.1727
+['templates165']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är processoperatörer från massa|massa|0.04318|0.1727
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad från massa kontrollerar i tillverkningen|massa|0.0427|0.1727
+['templates34']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad gör processoperatörer inom pappersindustrin|kontrollerar stegen|0.04238000000000001|0.1663
+['templates36']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad gör processoperatörer inom pappersindustrin|kontrollerar de olika stegen|0.04238000000000001|0.1663
+['templates165']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är processoperatörer i tillverkningen|massa|0.04238|0.1727
+['templates43']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är stegen|massa|0.038060000000000004|0.1727
+['templates120']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad gör processoperatörer|kontrollerar de olika stegen|0.03558000000000001|0.1663
+['templates121']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad gör processoperatörer|kontrollerar stegen från massa|0.03558000000000001|0.1663
+['templates121']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad gör processoperatörer|kontrollerar stegen till färdigt papper|0.03558000000000001|0.1663
+['templates121']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad gör processoperatörer|kontrollerar stegen i tillverkningen|0.03558000000000001|0.1663
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad till färdigt papper kontrollerar från massa|papper|0.03494|0.1151
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad i tillverkningen kontrollerar till färdigt papper|papper|0.03454|0.1151
+['templates165']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är processoperatörer till färdigt papper|papper|0.03414|0.1151
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad från massa kontrollerar till färdigt papper|papper|0.03382|0.1151
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad till färdigt papper kontrollerar i tillverkningen|papper|0.03358|0.1151
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad i tillverkningen kontrollerar från massa|papper|0.03318|0.1151
+['templates233']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad kontrollerar processoperatörer inom pappersindustrin från|färdigt papper|0.03214|0.1151
+['templates165']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är processoperatörer från massa|papper|0.03166|0.1151
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad från massa kontrollerar i tillverkningen|papper|0.03118|0.1151
+['templates165']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är processoperatörer i tillverkningen|papper|0.03086|0.1151
+['templates69']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|var kontrollerar processoperatörer inom pappersindustrin|från massa|0.030540000000000005|0.1351
+['templates13']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|var kontrollerar processoperatörer|från massa|0.027660000000000004|0.1351
+['templates43']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är stegen|färdigt papper|0.02654|0.1151
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad till färdigt papper kontrollerar från massa|tillverkningen|0.0132|0.0064
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad i tillverkningen kontrollerar till färdigt papper|tillverkningen|0.0128|0.0064
+['templates165']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är processoperatörer till färdigt papper|tillverkningen|0.0124|0.0064
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad från massa kontrollerar till färdigt papper|tillverkningen|0.01208|0.0064
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad till färdigt papper kontrollerar i tillverkningen|tillverkningen|0.01184|0.0064
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad i tillverkningen kontrollerar från massa|tillverkningen|0.01144|0.0064
+['templates233']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad kontrollerar processoperatörer inom pappersindustrin från|tillverkningen|0.010400000000000001|0.0064
+['templates165']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är processoperatörer från massa|tillverkningen|0.00992|0.0064
+['templates5']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad från massa kontrollerar i tillverkningen|tillverkningen|0.00944|0.0064
+['templates165']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är processoperatörer i tillverkningen|tillverkningen|0.00912|0.0064
+['templates69']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|var kontrollerar processoperatörer inom pappersindustrin|i tillverkningen|0.00892|0.027
+['templates13']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|var kontrollerar processoperatörer|i tillverkningen|0.00604|0.027
+['templates43']|processoperatörer inom pappersindustrin kontrollerar de olika stegen i tillverkningen från massa till färdigt papper.|vad är stegen|tillverkningen|0.0048000000000000004|0.0064
+
+['templates34']|hamnarbetare använder också olika sorters hamnkranar såsom svängkranar, sts-kranar eller vikarmskranar vid lastning och lossning av fartyg.|vad gör hamnarbetare?|använder hamnkranar|0.03558000000000001|0.1663
+['templates36', 'templates120']|hamnarbetare använder också olika sorters hamnkranar såsom svängkranar, sts-kranar eller vikarmskranar vid lastning och lossning av fartyg.|vad gör hamnarbetare|använder olika sorters hamnkranar såsom svängkranar , sts-kranar eller vikarmskranar vid lastning och lossning av fartyg|0.03558000000000001|0.1663
+
+['templates117']|om till exempel en container blivit skadad kan det dessutom innebära en säkerhetsrisk i den fortsatta hanteringen i hamnen.|vad kan det göra i den fortsatta hanteringen i hamnen?|innebära|0.06230000000000001|0.1663
+['templates145']|om till exempel en container blivit skadad kan det dessutom innebära en säkerhetsrisk i den fortsatta hanteringen i hamnen.|vad kan det göra i den fortsatta hanteringen om till exempel en container blivit skadad|innebära|0.047740000000000005|0.1663
+['templates191']|om till exempel en container blivit skadad kan det dessutom innebära en säkerhetsrisk i den fortsatta hanteringen i hamnen.|vad kan man göra om man till exempel en container blivit skadad|innebära i den fortsatta hanteringen i hamnen|0.042460000000000005|0.1663
+['templates30']|om till exempel en container blivit skadad kan det dessutom innebära en säkerhetsrisk i den fortsatta hanteringen i hamnen.|vad kan det innebära om till exempel en container blivit skadad|en säkerhetsrisk i den fortsatta hanteringen i hamnen|0.04222|0.1727
+['templates31']|om till exempel en container blivit skadad kan det dessutom innebära en säkerhetsrisk i den fortsatta hanteringen i hamnen.|vad kan det innebära om till exempel en container blivit skadad|säkerhetsrisk i den fortsatta hanteringen i hamnen|0.04222|0.1727
+['templates226']|om till exempel en container blivit skadad kan det dessutom innebära en säkerhetsrisk i den fortsatta hanteringen i hamnen.|vad kan det innebära|en säkerhetsrisk|0.04134|0.1727
+['templates48']|om till exempel en container blivit skadad kan det dessutom innebära en säkerhetsrisk i den fortsatta hanteringen i hamnen.|vad kan det göra om till exempel en container blivit skadad|innebära säkerhetsrisk|0.040940000000000004|0.1663
+['templates61']|om till exempel en container blivit skadad kan det dessutom innebära en säkerhetsrisk i den fortsatta hanteringen i hamnen.|vad kan det göra|innebära en säkerhetsrisk|0.040060000000000005|0.1663
+['templates129']|om till exempel en container blivit skadad kan det dessutom innebära en säkerhetsrisk i den fortsatta hanteringen i hamnen.|vad kan det göra|innebära säkerhetsrisk|0.040060000000000005|0.1663
+
+['templates233']|den största delen består av barrskog, men i söder breder lummig lövskog ut sig.|vad består den största delen från?|barrskog|0.05102|0.1727
+['templates69']|den största delen består av barrskog, men i söder breder lummig lövskog ut sig.|var består den största delen|av barrskog|0.0082|0.027
+['templates13']|den största delen består av barrskog, men i söder breder lummig lövskog ut sig.|var består delen|av barrskog|0.006520000000000001|0.027
+
+['templates108']|om du har fått ett beslut om avvisning som ska genomföras omedelbart får du alltid ett återreseförbud i normalt två år, även om du lämnar sverige direkt.|vad gör du om du har fått ett beslut om avvisning som ska genomföras omedelbart?|får|0.06286|0.1663
+['templates86']|om du har fått ett beslut om avvisning som ska genomföras omedelbart får du alltid ett återreseförbud i normalt två år, även om du lämnar sverige direkt.|vad får du om du har fått ett beslut om avvisning som ska genomföras omedelbart|återreseförbud|0.05262|0.1151
+['templates209']|om du har fått ett beslut om avvisning som ska genomföras omedelbart får du alltid ett återreseförbud i normalt två år, även om du lämnar sverige direkt.|vad gör en du om du har fått ett beslut om avvisning som ska genomföras omedelbart|får återreseförbud|0.047420000000000004|0.1663
+['templates19']|om du har fått ett beslut om avvisning som ska genomföras omedelbart får du alltid ett återreseförbud i normalt två år, även om du lämnar sverige direkt.|vad får om du har fått ett beslut om avvisning som ska genomföras omedelbart|återreseförbud|0.0455|0.1151
+['templates108']|om du har fått ett beslut om avvisning som ska genomföras omedelbart får du alltid ett återreseförbud i normalt två år, även om du lämnar sverige direkt.|vad gör du även om du lämnar sverige direkt|får|0.04478000000000001|0.1663
+['templates209']|om du har fått ett beslut om avvisning som ska genomföras omedelbart får du alltid ett återreseförbud i normalt två år, även om du lämnar sverige direkt.|vad gör en du även om du lämnar sverige direkt|får återreseförbud|0.037500000000000006|0.1663
+['templates34']|om du har fått ett beslut om avvisning som ska genomföras omedelbart får du alltid ett återreseförbud i normalt två år, även om du lämnar sverige direkt.|vad gör du|får återreseförbud|0.03678000000000001|0.1663
+['templates36', 'templates120']|om du har fått ett beslut om avvisning som ska genomföras omedelbart får du alltid ett återreseförbud i normalt två år, även om du lämnar sverige direkt.|vad gör du|får ett återreseförbud i normalt två år|0.03678000000000001|0.1663
+['templates86']|om du har fått ett beslut om avvisning som ska genomföras omedelbart får du alltid ett återreseförbud i normalt två år, även om du lämnar sverige direkt.|vad får du även om du lämnar sverige direkt|återreseförbud|0.03454|0.1151
+['templates19']|om du har fått ett beslut om avvisning som ska genomföras omedelbart får du alltid ett återreseförbud i normalt två år, även om du lämnar sverige direkt.|vad får även om du lämnar sverige direkt|återreseförbud|0.0319|0.1151
+
+['templates69']|i biomedicinarutbildningen ligger tyngdpunkten på molekylärbiologi kopplat till kunskaper om människan och hennes sjukdomar.|var ligger tyngdpunkten på molekylärbiologi kopplat till kunskaper om människan och hennes sjukdomar?|i biomedicinarutbildningen|0.032600000000000004|0.027
+['templates233']|i biomedicinarutbildningen ligger tyngdpunkten på molekylärbiologi kopplat till kunskaper om människan och hennes sjukdomar.|vad ligger tyngdpunkten på molekylärbiologi kopplat till kunskaper om människan och hennes sjukdomar från|biomedicinarutbildningen|0.027920000000000004|0.0064
+['templates13']|i biomedicinarutbildningen ligger tyngdpunkten på molekylärbiologi kopplat till kunskaper om människan och hennes sjukdomar.|var ligger tyngdpunkten|i biomedicinarutbildningen|0.006520000000000001|0.027
+
+['templates199']|sverige har inom fn:s konvention för biologisk mångfald åtagit sig att bevara och nyttja den biologiska mångfalden på ett hållbart sätt.|vilka har åtagit sig att bevara och nyttja den biologiska mångfalden på ett hållbart sätt i mångfald?|sverige|0.06148|0.0714
+['templates186']|sverige har inom fn:s konvention för biologisk mångfald åtagit sig att bevara och nyttja den biologiska mångfalden på ett hållbart sätt.|vilka har åtagit sig att bevara och nyttja den biologiska mångfalden på ett hållbart sätt|sverige|0.05700000000000001|0.0714
+
+
+
+['templates13', 'templates69']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|var lastar man?|på djurgårdar|0.05925999999999999|0.2703
+['templates165']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|vad är man på djurgårdar|djurgårdar|0.048400000000000006|0.162
+['templates196']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|vad gör man på djurgårdar|lossar|0.04782000000000001|0.1663
+['templates196']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|vad gör man av foder|lossar|0.046060000000000004|0.1663
+['templates165']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|vad är man av foder|djurgårdar|0.040560000000000006|0.162
+['templates165']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|vad är man på djurgårdar|foder|0.03902|0.1151
+['templates233']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|vad lastar man från|djurgårdar|0.038400000000000004|0.162
+['templates13', 'templates69']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|var lastar man|av foder|0.03764000000000001|0.1622
+['templates119']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|vad gör man|lossar|0.03638|0.1663
+['templates165']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|vad är man av foder|foder|0.03118|0.1151
+['templates233']|man lastar och lossar av foder på djurgårdar och det ingår också att sköta torkanläggningar där spannmål, hö eller halm förvaras.|vad lastar man från|foder|0.029019999999999997|0.1151
+
+['templates40']|här kallas den grafiska formgivaren ofta för webbdesigner (se separat yrkesbeskrivning för mer information).|vad kallas här för webbdesigner?|formgivaren|0.011120000000000001|0.0064
+['templates40']|här kallas den grafiska formgivaren ofta för webbdesigner (se separat yrkesbeskrivning för mer information).|vad kallas ofta för webbdesigner|formgivaren|0.008320000000000001|0.0064
+
+['templates12']|tunnplåtslagaren arbetar med rostfritt stål, aluminium och andra material.|var arbetar tunnplåtslagaren?|andra material|0.02178|0.0541
+
+
+['templates11']|maskinförare har oregelbundna arbetstider, arbetet styrs mycket av vädret.|vilka har maskinförare?|oregelbundna arbetstider|0.07214|0.3571
+['templates211']|maskinförare har oregelbundna arbetstider, arbetet styrs mycket av vädret.|vad har maskinförare på|oregelbundna arbetstider|0.03712000000000001|0.162
+['templates34']|maskinförare har oregelbundna arbetstider, arbetet styrs mycket av vädret.|vad gör maskinförare|har arbetstider|0.03558000000000001|0.1663
+['templates36', 'templates120']|maskinförare har oregelbundna arbetstider, arbetet styrs mycket av vädret.|vad gör maskinförare|har oregelbundna arbetstider|0.03558000000000001|0.1663
+
+['templates13', 'templates69']|man har ansvar för dyra lantbruksmaskiner och det är vanligt att gårdar har en gemensam uppsättning av maskiner, en så kallad maskinpark.|var har man?|för dyra lantbruksmaskiner|0.05925999999999999|0.2703
+['templates233']|man har ansvar för dyra lantbruksmaskiner och det är vanligt att gårdar har en gemensam uppsättning av maskiner, en så kallad maskinpark.|vad har man från|dyra lantbruksmaskiner|0.038400000000000004|0.162
+['templates34', 'templates36', 'templates120']|man har ansvar för dyra lantbruksmaskiner och det är vanligt att gårdar har en gemensam uppsättning av maskiner, en så kallad maskinpark.|vad gör man|har ansvar|0.03638|0.1663
+['templates121']|man har ansvar för dyra lantbruksmaskiner och det är vanligt att gårdar har en gemensam uppsättning av maskiner, en så kallad maskinpark.|vad gör man|har ansvar för dyra lantbruksmaskiner|0.03638|0.1663
+['templates38']|man har ansvar för dyra lantbruksmaskiner och det är vanligt att gårdar har en gemensam uppsättning av maskiner, en så kallad maskinpark.|vad gör man|har ansvar och det är vanligt att gårdar har en gemensam uppsättning av maskiner , en så kallad maskinpark|0.03638|0.1663
+['templates43']|man har ansvar för dyra lantbruksmaskiner och det är vanligt att gårdar har en gemensam uppsättning av maskiner, en så kallad maskinpark.|vad är ansvar|dyra lantbruksmaskiner|0.03416|0.162
+['templates211']|man har ansvar för dyra lantbruksmaskiner och det är vanligt att gårdar har en gemensam uppsättning av maskiner, en så kallad maskinpark.|vad har man på|ansvar|0.029019999999999997|0.1151
+['templates11']|man har ansvar för dyra lantbruksmaskiner och det är vanligt att gårdar har en gemensam uppsättning av maskiner, en så kallad maskinpark.|vilka har man|ansvar|0.021980000000000003|0.1071
+
+['templates157']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du göra för tid?|få uppehållstillstånd för en längre tid|0.047740000000000005|0.1663
+['templates157']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du göra för tid|få uppehållstillstånd för vissa fleråriga utbildningar|0.047740000000000005|0.1663
+['templates157']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du göra för utbildning|få uppehållstillstånd för en längre tid|0.047740000000000005|0.1663
+['templates157']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du göra för utbildning|få uppehållstillstånd för vissa fleråriga utbildningar|0.047740000000000005|0.1663
+['templates247']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du få för en längre tid|uppehållstillstånd för en längre tid|0.04462|0.1151
+['templates247']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du få för en längre tid|uppehållstillstånd för vissa fleråriga utbildningar|0.04462|0.1151
+['templates247']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du få för vissa fleråriga utbildningar|uppehållstillstånd för en längre tid|0.04206|0.1151
+['templates247']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du få för vissa fleråriga utbildningar|uppehållstillstånd för vissa fleråriga utbildningar|0.04206|0.1151
+['templates61', 'templates129']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du göra|få uppehållstillstånd|0.03742|0.1663
+['templates60']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du göra|få , men högst för ett år i taget , eller 13 månader vid en förstagångsansökan för en längre tid för vissa fleråriga utbildningar|0.03742|0.1663
+['templates60']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du göra|få , men högst för ett år i taget , eller 13 månader vid en förstagångsansökan för vissa fleråriga utbildningar för en längre tid|0.03742|0.1663
+['templates226']|för vissa fleråriga utbildningar kan du dock få uppehållstillstånd för en längre tid, men högst för ett år i taget, eller 13 månader vid en förstagångsansökan.|vad kan du få|uppehållstillstånd|0.02718|0.1151
+
+
+['templates48']|om du är borta längre än ett år eller om du planerar att bosätta dig i ett annat land kan migrationsverket återkalla ditt uppehållstillstånd.|vad kan migrationsverket göra om du är borta längre än ett år eller om du planerar att bosätta dig i ett annat land?|återkalla uppehållstillstånd|0.05958000000000001|0.1663
+['templates61']|om du är borta längre än ett år eller om du planerar att bosätta dig i ett annat land kan migrationsverket återkalla ditt uppehållstillstånd.|vad kan migrationsverket göra|återkalla ditt uppehållstillstånd|0.040220000000000006|0.1663
+['templates129']|om du är borta längre än ett år eller om du planerar att bosätta dig i ett annat land kan migrationsverket återkalla ditt uppehållstillstånd.|vad kan migrationsverket göra|återkalla uppehållstillstånd|0.040220000000000006|0.1663
+['templates226']|om du är borta längre än ett år eller om du planerar att bosätta dig i ett annat land kan migrationsverket återkalla ditt uppehållstillstånd.|vad kan migrationsverket återkalla|ditt uppehållstillstånd|0.02998|0.1151
+
+
+['templates48']|man bör ha god fysik då arbetet kan slita på nacke och axlar.|vad bör man göra då arbetet kan slita på nacke och axlar?|ha fysik|0.0627|0.1663
+['templates226']|man bör ha god fysik då arbetet kan slita på nacke och axlar.|vad bör man ha|god fysik|0.0391|0.1727
+['templates129']|man bör ha god fysik då arbetet kan slita på nacke och axlar.|vad bör man göra|ha fysik|0.037820000000000006|0.1663
+['templates61']|man bör ha god fysik då arbetet kan slita på nacke och axlar.|vad bör man göra|ha god fysik|0.004980000000000001|0.0021
+
+['templates165']|i arbetet med att rätta till felställda tänder och ersätta skadade tänder med kronor, broar, proteser eller implantat sker ofta ett samarbete med en tandtekniker, som tillverkar själva tandställningen respektive tandersättningen.|vad är samarbete i arbetet med att rätta till felställda tänder och ersätta skadade tänder med kronor , broar , proteser eller implantat?|tandtekniker|0.07152|0.162
+['templates165']|i arbetet med att rätta till felställda tänder och ersätta skadade tänder med kronor, broar, proteser eller implantat sker ofta ett samarbete med en tandtekniker, som tillverkar själva tandställningen respektive tandersättningen.|vad är samarbete med en tandtekniker , som tillverkar själva tandställningen respektive tandersättningen|tandtekniker|0.05016000000000001|0.162
+['templates233']|i arbetet med att rätta till felställda tänder och ersätta skadade tänder med kronor, broar, proteser eller implantat sker ofta ett samarbete med en tandtekniker, som tillverkar själva tandställningen respektive tandersättningen.|vad sker ett samarbete från|en tandtekniker|0.04182|0.1727
+['templates165']|i arbetet med att rätta till felställda tänder och ersätta skadade tänder med kronor, broar, proteser eller implantat sker ofta ett samarbete med en tandtekniker, som tillverkar själva tandställningen respektive tandersättningen.|vad är samarbete i arbetet med att rätta till felställda tänder och ersätta skadade tänder med kronor , broar , proteser eller implantat|arbetet|0.04082|0.0085
+['templates33']|i arbetet med att rätta till felställda tänder och ersätta skadade tänder med kronor, broar, proteser eller implantat sker ofta ett samarbete med en tandtekniker, som tillverkar själva tandställningen respektive tandersättningen.|vad gör ett samarbete|sker ofta i arbetet med att rätta till felställda tänder och ersätta skadade tänder med kronor , broar , proteser eller implantat|0.0403|0.1663
+['templates33']|i arbetet med att rätta till felställda tänder och ersätta skadade tänder med kronor, broar, proteser eller implantat sker ofta ett samarbete med en tandtekniker, som tillverkar själva tandställningen respektive tandersättningen.|vad gör ett samarbete|sker ofta med en tandtekniker , som tillverkar själva tandställningen respektive tandersättningen|0.0403|0.1663
+['templates165']|i arbetet med att rätta till felställda tänder och ersätta skadade tänder med kronor, broar, proteser eller implantat sker ofta ett samarbete med en tandtekniker, som tillverkar själva tandställningen respektive tandersättningen.|vad är samarbete med en tandtekniker , som tillverkar själva tandställningen respektive tandersättningen|arbetet|0.01946|0.0085
+
+
+['templates212']|det övergripande målet för malmö universitet är att hålla en hög kvalitet i utbildning och forskning där vi i samverkan med andra samhällsaktörer skapar, delar och sprider kunskap för att förstå, förklara och utveckla samhället.|vad gör utbildning och forskning där vi i samverkan med andra samhällsaktörer skapar , delar och sprider kunskap för att förstå , förklara och utveckla samhället?|hålla en hög kvalitet|0.05212|0.081
+

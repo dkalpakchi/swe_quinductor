@@ -1,0 +1,272 @@
+Template|Original sentence|Generated question|Generated answer|Score|Qw frequency
+['templates48']|när du ska hämta ditt beslut ska du ta med ditt pass.|vad ska du göra när du ska hämta ditt beslut?|ta pass|0.037880000000000004|0.081
+['templates112']|när du ska hämta ditt beslut ska du ta med ditt pass.|vad ska du göra när du ska hämta ditt beslut|ta med ditt pass|0.037880000000000004|0.081
+['templates226']|när du ska hämta ditt beslut ska du ta med ditt pass.|vad ska du ta|ditt pass|0.02718|0.1151
+['templates61']|när du ska hämta ditt beslut ska du ta med ditt pass.|vad ska du göra|ta ditt pass|0.020360000000000003|0.081
+['templates129']|när du ska hämta ditt beslut ska du ta med ditt pass.|vad ska du göra|ta pass|0.020360000000000003|0.081
+
+
+
+['templates145']|när en auktoriserad elinstallatör arbetar yrkesmässigt måste han eller hon arbeta inom ramen för ett elinstallationsföretags egenkontrollprogram.|vad måste han göra inom ramen för ett elinstallationsföretags egenkontrollprogram när en auktoriserad elinstallatör arbetar yrkesmässigt?|arbeta|0.05222|0.1663
+['templates117']|när en auktoriserad elinstallatör arbetar yrkesmässigt måste han eller hon arbeta inom ramen för ett elinstallationsföretags egenkontrollprogram.|vad måste han göra inom ramen för ett elinstallationsföretags egenkontrollprogram|arbeta|0.05126|0.1663
+['templates191']|när en auktoriserad elinstallatör arbetar yrkesmässigt måste han eller hon arbeta inom ramen för ett elinstallationsföretags egenkontrollprogram.|vad måste man göra när man arbetar yrkesmässigt|arbeta inom ramen för ett elinstallationsföretags egenkontrollprogram|0.04574|0.1663
+
+
+['templates108']|anledningen till att myndigheterna ska samarbeta om kontroller handlar ytterst om att medborgarna ska känna tillit till den offentliga verksamheten.|vad gör anledningen om att medborgarna ska känna tillit till den offentliga verksamheten?|handlar|0.0791|0.1663
+
+
+['templates48']|om du har fått ett beslut om avvisning som ska genomföras omedelbart måste du lämna sverige så snart du har fått beslutet.|vad måste du göra om du har fått ett beslut om avvisning som ska genomföras omedelbart?|lämna sverige|0.04172000000000001|0.081
+['templates61', 'templates129']|om du har fått ett beslut om avvisning som ska genomföras omedelbart måste du lämna sverige så snart du har fått beslutet.|vad måste du göra|lämna sverige|0.020360000000000003|0.081
+['templates48']|om du har fått ett beslut om avvisning som ska genomföras omedelbart måste du lämna sverige så snart du har fått beslutet.|vad måste du göra du har fått beslutet|lämna sverige|0.020360000000000003|0.081
+['templates226']|om du har fått ett beslut om avvisning som ska genomföras omedelbart måste du lämna sverige så snart du har fått beslutet.|vad måste du lämna|sverige|0.00458|0.0021
+
+
+['templates57']|det är barnets vårdnadshavare eller gode man som personligen ansöker om provisoriskt främlingspass åt barnet.|vad är det?|vårdnadshavare|0.0387|0.1727
+['templates56']|det är barnets vårdnadshavare eller gode man som personligen ansöker om provisoriskt främlingspass åt barnet.|vad är det|vårdnadshavare eller gode man som personligen ansöker om provisoriskt främlingspass åt barnet|0.0387|0.1727
+
+['templates234']|fysiker har breda och djupa kunskaper inom fysik och matematik.|vilka har breda och djupa kunskaper inom fysik och matematik?|fysiker|0.0919|0.3571
+['templates233']|fysiker har breda och djupa kunskaper inom fysik och matematik.|vad har fysiker från|fysik och matematik|0.038540000000000005|0.1727
+['templates43']|fysiker har breda och djupa kunskaper inom fysik och matematik.|vad är kunskaper|fysik och matematik|0.03638|0.1727
+['templates34']|fysiker har breda och djupa kunskaper inom fysik och matematik.|vad gör fysiker|har kunskaper|0.03558000000000001|0.1663
+['templates36', 'templates120']|fysiker har breda och djupa kunskaper inom fysik och matematik.|vad gör fysiker|har breda och djupa kunskaper|0.03558000000000001|0.1663
+['templates121']|fysiker har breda och djupa kunskaper inom fysik och matematik.|vad gör fysiker|har kunskaper inom fysik och matematik|0.03558000000000001|0.1663
+['templates12']|fysiker har breda och djupa kunskaper inom fysik och matematik.|var har fysiker|matematik|0.027660000000000004|0.1351
+
+['templates57']|andra möjliga högre roller är platschef, som har helhetsansvaret på byggnationsplatsen, eller arbetsledare, som arbetar mer direkt i produktionen.|vad är andra möjliga högre roller?|platschef|0.04014|0.1727
+
+['templates211']|de gör ritningar och konstruktioner efter beställarens behov och arbetar i kontakt med myndigheter och entreprenadfirmor för bygglov och upphandlingar.|vad gör de på?|ritningar|0.038720000000000004|0.162
+['templates34']|de gör ritningar och konstruktioner efter beställarens behov och arbetar i kontakt med myndigheter och entreprenadfirmor för bygglov och upphandlingar.|vad gör de|gör ritningar|0.03638|0.1663
+['templates36', 'templates120']|de gör ritningar och konstruktioner efter beställarens behov och arbetar i kontakt med myndigheter och entreprenadfirmor för bygglov och upphandlingar.|vad gör de|gör ritningar och konstruktioner efter beställarens behov|0.03638|0.1663
+['templates38']|de gör ritningar och konstruktioner efter beställarens behov och arbetar i kontakt med myndigheter och entreprenadfirmor för bygglov och upphandlingar.|vad gör de|gör ritningar och konstruktioner efter beställarens behov och arbetar i kontakt med myndigheter och entreprenadfirmor för bygglov och upphandlingar|0.03638|0.1663
+['templates73']|de gör ritningar och konstruktioner efter beställarens behov och arbetar i kontakt med myndigheter och entreprenadfirmor för bygglov och upphandlingar.|vad gör de|konstruktioner|0.03552|0.162
+
+['templates34']|platschefen har det övergripande ansvaret för verksamheten på resmålet och leder den övriga personalens arbete.|vad gör platschefen?|har ansvaret|0.0427|0.1663
+['templates36', 'templates120']|platschefen har det övergripande ansvaret för verksamheten på resmålet och leder den övriga personalens arbete.|vad gör platschefen|har det övergripande ansvaret|0.0427|0.1663
+['templates121']|platschefen har det övergripande ansvaret för verksamheten på resmålet och leder den övriga personalens arbete.|vad gör platschefen|har ansvaret för verksamheten på resmålet|0.0427|0.1663
+['templates38']|platschefen har det övergripande ansvaret för verksamheten på resmålet och leder den övriga personalens arbete.|vad gör platschefen|har det övergripande ansvaret och leder den övriga personalens arbete|0.0427|0.1663
+['templates234']|platschefen har det övergripande ansvaret för verksamheten på resmålet och leder den övriga personalens arbete.|vilka har det övergripande ansvaret för verksamheten på resmålet|platschefen|0.03406000000000001|0.1071
+
+
+['templates40']|pulverfärg appliceras ofta på metallkomponenter.|vad appliceras ofta på metallkomponenter?|pulverfärg|0.04182|0.1727
+
+['templates202']|därefter härdas pulverfärgen i en ugn med hög temperatur och pulvret smälter samman till en jämn yta.|var härdas därefter pulverfärgen?|hög temperatur|0.03302|0.1351
+['templates115']|därefter härdas pulverfärgen i en ugn med hög temperatur och pulvret smälter samman till en jämn yta.|var härdas pulverfärgen|därefter i en ugn med hög temperatur|0.031740000000000004|0.1351
+['templates40']|därefter härdas pulverfärgen i en ugn med hög temperatur och pulvret smälter samman till en jämn yta.|vad härdas därefter i en ugn med hög temperatur|pulverfärgen|0.030400000000000003|0.0064
+
+['templates57']|materialen kan vara metall, järn, stål, plåt och plast.|vad vara materialen?|metall|0.0347|0.1727
+['templates56']|materialen kan vara metall, järn, stål, plåt och plast.|vad vara materialen|metall , järn|0.0347|0.1727
+['templates56']|materialen kan vara metall, järn, stål, plåt och plast.|vad vara materialen|metall och plast|0.0347|0.1727
+['templates56']|materialen kan vara metall, järn, stål, plåt och plast.|vad vara materialen|metall , plåt|0.0347|0.1727
+['templates56']|materialen kan vara metall, järn, stål, plåt och plast.|vad vara materialen|metall , stål|0.0347|0.1727
+
+['templates233']|inom vissa socionomyrken ingår jourtjänstgöring vilket kan innebära att man blir inkallad för att arbeta när som helst under dygnet.|vad ingår jourtjänstgöring vilket kan innebära att man blir inkallad för att arbeta när som helst under dygnet från?|vissa socionomyrken|0.01838|0.0235
+
+['templates57']|rytmikläraren är en musiklärare som använder rörelser till musik i sin undervisning.|vad är rytmikläraren?|musiklärare|0.038220000000000004|0.1727
+
+['templates108']|även om arbete med inkommande samtal är vanligast så förekommer det även att man både hanterar inkommande och utgående samtal.|vad gör det även om arbete med inkommande samtal är vanligast?|förekommer|0.042460000000000005|0.1663
+['templates108']|även om arbete med inkommande samtal är vanligast så förekommer det även att man både hanterar inkommande och utgående samtal.|vad gör det man både hanterar inkommande och utgående samtal|förekommer|0.04182|0.1663
+['templates108']|även om arbete med inkommande samtal är vanligast så förekommer det även att man både hanterar inkommande och utgående samtal.|vad gör det så|förekommer|0.03998|0.1663
+
+
+['templates33']|miljö- och hälsoskyddsinspektörer samarbetar till exempel med andra tjänstemän inom kommuner, företag och myndigheter.|vad gör miljö- och hälsoskyddsinspektörer?|samarbetar till med andra tjänstemän inom kommuner , företag och myndigheter|0.042780000000000006|0.1663
+
+['templates209']|när montaget är klart gör installationselektrikern en teknisk beskrivning av installationen.|vad gör en installationseltriker när montaget är klart?|gör beskrivning|0.04358000000000001|0.1663
+['templates86']|när montaget är klart gör installationselektrikern en teknisk beskrivning av installationen.|vad gör installationselektrikern när montaget är klart|beskrivning|0.04326|0.1727
+['templates34']|när montaget är klart gör installationselektrikern en teknisk beskrivning av installationen.|vad gör installationselektrikern|gör beskrivning|0.0427|0.1663
+['templates36', 'templates120']|när montaget är klart gör installationselektrikern en teknisk beskrivning av installationen.|vad gör installationselektrikern|gör en teknisk beskrivning av installationen|0.0427|0.1663
+['templates108']|när montaget är klart gör installationselektrikern en teknisk beskrivning av installationen.|vad gör installationselektrikern när montaget är klart|gör|0.04198|0.1663
+['templates19']|när montaget är klart gör installationselektrikern en teknisk beskrivning av installationen.|vad gör när montaget är klart|beskrivning|0.041100000000000005|0.1727
+
+['templates209']|arbetar man i ett mindre installationsföretag har man vanligtvis bredare arbetsuppgifter där installation av datanät, tv-anläggningar och liknande kan ingå.|vad gör en man arbetar man i ett mindre installationsföretag?|har arbetsuppgifter|0.05550000000000001|0.1663
+['templates86']|arbetar man i ett mindre installationsföretag har man vanligtvis bredare arbetsuppgifter där installation av datanät, tv-anläggningar och liknande kan ingå.|vad har man arbetar man i ett mindre installationsföretag|arbetsuppgifter|0.055040000000000006|0.162
+['templates108']|arbetar man i ett mindre installationsföretag har man vanligtvis bredare arbetsuppgifter där installation av datanät, tv-anläggningar och liknande kan ingå.|vad gör man arbetar man i ett mindre installationsföretag|har|0.04934000000000001|0.1663
+['templates19']|arbetar man i ett mindre installationsföretag har man vanligtvis bredare arbetsuppgifter där installation av datanät, tv-anläggningar och liknande kan ingå.|vad har arbetar man i ett mindre installationsföretag|arbetsuppgifter|0.047200000000000006|0.162
+['templates34']|arbetar man i ett mindre installationsföretag har man vanligtvis bredare arbetsuppgifter där installation av datanät, tv-anläggningar och liknande kan ingå.|vad gör man|har arbetsuppgifter|0.03638|0.1663
+['templates36', 'templates120']|arbetar man i ett mindre installationsföretag har man vanligtvis bredare arbetsuppgifter där installation av datanät, tv-anläggningar och liknande kan ingå.|vad gör man|har bredare arbetsuppgifter där installation av datanät , tv-anläggningar och liknande kan ingå|0.03638|0.1663
+
+['templates209']|moderna fastigheter har avancerade, datorstyrda system för att inomhusklimatet ska vara behagligt, samtidigt som energiförbrukningen ska hållas så låg som möjligt.|vad gör en fastighet för att inomhusklimatet ska vara behagligt , samtidigt som energiförbrukningen ska hållas så låg som möjligt?|har system|0.054220000000000004|0.1663
+['templates108']|moderna fastigheter har avancerade, datorstyrda system för att inomhusklimatet ska vara behagligt, samtidigt som energiförbrukningen ska hållas så låg som möjligt.|vad gör fastigheter för att inomhusklimatet ska vara behagligt , samtidigt som energiförbrukningen ska hållas så låg som möjligt|har|0.050780000000000006|0.1663
+['templates19']|moderna fastigheter har avancerade, datorstyrda system för att inomhusklimatet ska vara behagligt, samtidigt som energiförbrukningen ska hållas så låg som möjligt.|vad har för att inomhusklimatet ska vara behagligt , samtidigt som energiförbrukningen ska hållas så låg som möjligt|system|0.04254|0.1151
+['templates34']|moderna fastigheter har avancerade, datorstyrda system för att inomhusklimatet ska vara behagligt, samtidigt som energiförbrukningen ska hållas så låg som möjligt.|vad gör moderna fastigheter|har system|0.04118000000000001|0.1663
+['templates36']|moderna fastigheter har avancerade, datorstyrda system för att inomhusklimatet ska vara behagligt, samtidigt som energiförbrukningen ska hållas så låg som möjligt.|vad gör moderna fastigheter|har avancerade , datorstyrda system|0.04118000000000001|0.1663
+['templates86']|moderna fastigheter har avancerade, datorstyrda system för att inomhusklimatet ska vara behagligt, samtidigt som energiförbrukningen ska hållas så låg som möjligt.|vad har fastigheter för att inomhusklimatet ska vara behagligt , samtidigt som energiförbrukningen ska hållas så låg som möjligt|system|0.04054|0.1151
+['templates120']|moderna fastigheter har avancerade, datorstyrda system för att inomhusklimatet ska vara behagligt, samtidigt som energiförbrukningen ska hållas så låg som möjligt.|vad gör fastigheter|har avancerade , datorstyrda system|0.03558000000000001|0.1663
+
+['templates34', 'templates36', 'templates120']|kriminalvården fungerar dygnet runt.|vad gör dygnet?|fungerar kriminalvården|0.037180000000000005|0.1663
+['templates11']|kriminalvården fungerar dygnet runt.|vilka fungerar dygnet|kriminalvården|0.022060000000000003|0.1071
+['templates211']|kriminalvården fungerar dygnet runt.|vad fungerar dygnet på|kriminalvården|0.00792|0.0064
+
+['templates40']|resultatet av kartläggning, eventuella mätningar och analyser presenteras ofta i en rapport.|vad presenteras ofta i en rapport?|resultatet|0.01122|0.0085
+
+['templates34']|även dags- kvälls och lokaltidningar utökar sitt utbud av rörliga reportage genom webb-tv.|vad gör även dags- kvälls och lokaltidningar?|utökar utbud|0.03574000000000001|0.1663
+['templates36']|även dags- kvälls och lokaltidningar utökar sitt utbud av rörliga reportage genom webb-tv.|vad gör även dags- kvälls och lokaltidningar|utökar sitt utbud av rörliga reportage|0.03574000000000001|0.1663
+['templates120']|även dags- kvälls och lokaltidningar utökar sitt utbud av rörliga reportage genom webb-tv.|vad gör kvälls|utökar sitt utbud av rörliga reportage|0.03398|0.1663
+['templates121']|även dags- kvälls och lokaltidningar utökar sitt utbud av rörliga reportage genom webb-tv.|vad gör kvälls|utökar utbud genom webb-tv|0.03398|0.1663
+['templates69']|även dags- kvälls och lokaltidningar utökar sitt utbud av rörliga reportage genom webb-tv.|var utökar även dags- kvälls och lokaltidningar|genom webb-tv|0.03348|0.1622
+['templates13']|även dags- kvälls och lokaltidningar utökar sitt utbud av rörliga reportage genom webb-tv.|var utökar kvälls|genom webb-tv|0.032600000000000004|0.1622
+['templates233']|även dags- kvälls och lokaltidningar utökar sitt utbud av rörliga reportage genom webb-tv.|vad utökar även dags- kvälls och lokaltidningar från|webb-tv|0.025419999999999998|0.1151
+['templates43']|även dags- kvälls och lokaltidningar utökar sitt utbud av rörliga reportage genom webb-tv.|vad är utbud|webb-tv|0.02478|0.1151
+
+['templates11']|hovslagaren behandlar även skador i hoven till exempel hovsprickor eller hovbölder.|vilka behandlar hovslagaren?|skador i hoven|0.07262|0.3571
+['templates34']|hovslagaren behandlar även skador i hoven till exempel hovsprickor eller hovbölder.|vad gör hovslagaren|behandlar hovsprickor|0.0427|0.1663
+['templates34']|hovslagaren behandlar även skador i hoven till exempel hovsprickor eller hovbölder.|vad gör hovslagaren|behandlar skador|0.0427|0.1663
+['templates36', 'templates120']|hovslagaren behandlar även skador i hoven till exempel hovsprickor eller hovbölder.|vad gör hovslagaren|behandlar till exempel hovsprickor eller hovbölder|0.0427|0.1663
+['templates36', 'templates120']|hovslagaren behandlar även skador i hoven till exempel hovsprickor eller hovbölder.|vad gör hovslagaren|behandlar skador i hoven|0.0427|0.1663
+['templates73']|hovslagaren behandlar även skador i hoven till exempel hovsprickor eller hovbölder.|vad behandlar hovslagaren|hovbölder|0.04184|0.162
+['templates211']|hovslagaren behandlar även skador i hoven till exempel hovsprickor eller hovbölder.|vad behandlar hovslagaren på|skador i hoven|0.041440000000000005|0.162
+
+
+['templates117']|föl och unghästar samt vissa andra hästar som inte är ömfotade kan ofta gå utan skor.|vad kan föl göra utan skor?|gå|0.038860000000000006|0.1663
+
+['templates117']|om du ska besöka sverige under längre tid än 90 dagar ska du ansöka om ett uppehållstillstånd för besök.|vad ska du göra om ett uppehållstillstånd för besök?|ansöka|0.057100000000000005|0.1663
+['templates145']|om du ska besöka sverige under längre tid än 90 dagar ska du ansöka om ett uppehållstillstånd för besök.|vad ska du göra om ett uppehållstillstånd om du ska besöka sverige under längre tid än 90 dagar|ansöka|0.056940000000000004|0.1663
+['templates191']|om du ska besöka sverige under längre tid än 90 dagar ska du ansöka om ett uppehållstillstånd för besök.|vad ska man göra om man ska besöka sverige under längre tid än 90 dagar|ansöka om ett uppehållstillstånd för besök|0.038040000000000004|0.081
+
+
+
+['templates34']|då tar åklagaren fram de sakliga bevis som finns och passar på att ställa frågor till den åklagade och ibland också till vittnen som kallats in.|vad gör åklagaren?|tar bevis|0.0427|0.1663
+['templates36', 'templates120']|då tar åklagaren fram de sakliga bevis som finns och passar på att ställa frågor till den åklagade och ibland också till vittnen som kallats in.|vad gör åklagaren|tar de sakliga bevis som finns och passar på att ställa frågor till den åklagade och ibland också till vittnen som kallats in|0.0427|0.1663
+['templates39']|då tar åklagaren fram de sakliga bevis som finns och passar på att ställa frågor till den åklagade och ibland också till vittnen som kallats in.|vad gör åklagaren|tar fram bevis|0.0427|0.1663
+
+['templates117']|för elever som har skador eller handikapp får idrottsläraren ofta göra upp individuella program där eleverna jobbar med de delar av kroppen som är friska.|vad får idrottsläraren göra för elever som har skador eller handikapp?|göra|0.06526000000000001|0.1663
+['templates61']|för elever som har skador eller handikapp får idrottsläraren ofta göra upp individuella program där eleverna jobbar med de delar av kroppen som är friska.|vad får idrottsläraren göra|göra individuella program där eleverna jobbar med de delar av kroppen som är friska|0.03934000000000001|0.1663
+['templates129']|för elever som har skador eller handikapp får idrottsläraren ofta göra upp individuella program där eleverna jobbar med de delar av kroppen som är friska.|vad får idrottsläraren göra|göra program|0.03934000000000001|0.1663
+
+
+['templates233']|detta gör du normalt med en giltig passhandling.|vad gör du från?|en giltig passhandling|0.04134|0.1727
+['templates34', 'templates36', 'templates120']|detta gör du normalt med en giltig passhandling.|vad gör du|gör detta|0.03678000000000001|0.1663
+['templates121']|detta gör du normalt med en giltig passhandling.|vad gör du|gör detta med en giltig passhandling|0.03678000000000001|0.1663
+['templates33']|detta gör du normalt med en giltig passhandling.|vad gör du|gör normalt med en giltig passhandling|0.03678000000000001|0.1663
+['templates43']|detta gör du normalt med en giltig passhandling.|vad är detta|en giltig passhandling|0.0359|0.1727
+['templates206']|detta gör du normalt med en giltig passhandling.|var gör du normalt|med en giltig passhandling|0.03382|0.1351
+['templates13', 'templates69']|detta gör du normalt med en giltig passhandling.|var gör du|med en giltig passhandling|0.03182|0.1351
+['templates195']|detta gör du normalt med en giltig passhandling.|var gör normalt du|med en giltig passhandling|0.02894|0.1351
+
+['templates234']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vilka ingår som i arbetet?|rutiner|0.07414|0.3571
+['templates35']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad gör dagliga rutiner ,|ingår dagliga rutiner ,|0.05654000000000001|0.1663
+['templates35']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad gör dagliga rutiner ,|ingår städning , tvätt och matlagning|0.05654000000000001|0.1663
+['templates34', 'templates36']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad gör dagliga rutiner ,|ingår som|0.05654000000000001|0.1663
+['templates35']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad gör städning , tvätt och matlagning|ingår dagliga rutiner ,|0.0563|0.1663
+['templates35']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad gör städning , tvätt och matlagning|ingår städning , tvätt och matlagning|0.0563|0.1663
+['templates34', 'templates36']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad gör städning , tvätt och matlagning|ingår som|0.0563|0.1663
+['templates69']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|var ingår dagliga rutiner ,|i arbetet|0.05074000000000001|0.0541
+['templates120']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad gör städning|ingår som|0.0379|0.1663
+['templates121']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad gör städning|ingår som i arbetet|0.0379|0.1663
+['templates120']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad gör rutiner|ingår som|0.03558000000000001|0.1663
+['templates121']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad gör rutiner|ingår som i arbetet|0.03558000000000001|0.1663
+['templates69']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|var ingår städning , tvätt och matlagning|i arbetet|0.030900000000000004|0.0541
+['templates233']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad ingår städning , tvätt och matlagning från|arbetet|0.01882|0.0085
+['templates234']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vilka ingår som i arbetet|städning|0.017|0.0714
+['templates13']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|var ingår städning|i arbetet|0.014420000000000002|0.0541
+['templates13']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|var ingår rutiner|i arbetet|0.011460000000000001|0.0541
+['templates233']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad ingår dagliga rutiner , från|arbetet|0.01074|0.0085
+['templates43']|dagliga rutiner, som städning, tvätt och matlagning ingår i arbetet.|vad är som|arbetet|0.0031400000000000004|0.0085
+
+['templates40']|det ställs då särskilda krav på den som arbetar som personlig assistent som exempelvis att man har undersköterskeutbildning.|vad ställs då på den som arbetar som personlig assistent som exempelvis att man har undersköterskeutbildning?|krav|0.029980000000000003|0.0235
+
+
+['templates48']|man kan också hjälpa assistansanvändaren att kommunicera, då kan det krävas att den personliga assistenten har särskild kunskap som exempelvis teckenspråk.|vad kan man göra att kommunicera?|hjälpa assistansanvändaren|0.04190000000000001|0.1663
+['templates61', 'templates129']|man kan också hjälpa assistansanvändaren att kommunicera, då kan det krävas att den personliga assistenten har särskild kunskap som exempelvis teckenspråk.|vad kan man göra|hjälpa assistansanvändaren|0.037820000000000006|0.1663
+['templates226']|man kan också hjälpa assistansanvändaren att kommunicera, då kan det krävas att den personliga assistenten har särskild kunskap som exempelvis teckenspråk.|vad kan man hjälpa|assistansanvändaren|0.005840000000000001|0.0064
+
+['templates82']|nätverkstekniker som arbetar med webbutveckling vidareutvecklar den tekniska infrastrukturen i form av webblösningar.|vem vidareutvecklar nätverkstekniker i form av webblösningar?|infrastrukturen|0.20304000000000003|0.9444
+['templates234']|nätverkstekniker som arbetar med webbutveckling vidareutvecklar den tekniska infrastrukturen i form av webblösningar.|vilka vidareutvecklar den tekniska infrastrukturen i form av webblösningar|nätverkstekniker|0.08838|0.3571
+['templates34']|nätverkstekniker som arbetar med webbutveckling vidareutvecklar den tekniska infrastrukturen i form av webblösningar.|vad gör nätverkstekniker som arbetar med webbutveckling|vidareutvecklar infrastrukturen|0.04982|0.1663
+['templates36']|nätverkstekniker som arbetar med webbutveckling vidareutvecklar den tekniska infrastrukturen i form av webblösningar.|vad gör nätverkstekniker som arbetar med webbutveckling|vidareutvecklar den tekniska infrastrukturen|0.04982|0.1663
+['templates233']|nätverkstekniker som arbetar med webbutveckling vidareutvecklar den tekniska infrastrukturen i form av webblösningar.|vad vidareutvecklar nätverkstekniker som arbetar med webbutveckling från|webblösningar|0.0476|0.162
+['templates43']|nätverkstekniker som arbetar med webbutveckling vidareutvecklar den tekniska infrastrukturen i form av webblösningar.|vad är infrastrukturen|webblösningar|0.03608000000000001|0.162
+['templates120']|nätverkstekniker som arbetar med webbutveckling vidareutvecklar den tekniska infrastrukturen i form av webblösningar.|vad gör nätverkstekniker|vidareutvecklar den tekniska infrastrukturen|0.03558000000000001|0.1663
+['templates121']|nätverkstekniker som arbetar med webbutveckling vidareutvecklar den tekniska infrastrukturen i form av webblösningar.|vad gör nätverkstekniker|vidareutvecklar infrastrukturen i form av webblösningar|0.03558000000000001|0.1663
+
+['templates11']|till hjälp har man skogsmaskiner såsom skördare och skotare.|vilka har man?|skogsmaskiner|0.07198|0.3571
+['templates193']|till hjälp har man skogsmaskiner såsom skördare och skotare.|vad har man såsom skördare och skotare|skogsmaskiner|0.04424000000000001|0.162
+['templates233']|till hjälp har man skogsmaskiner såsom skördare och skotare.|vad har man från|hjälp|0.04054|0.1727
+['templates211']|till hjälp har man skogsmaskiner såsom skördare och skotare.|vad har man på|skogsmaskiner|0.038400000000000004|0.162
+['templates43']|till hjälp har man skogsmaskiner såsom skördare och skotare.|vad är skogsmaskiner|hjälp|0.03638|0.1727
+['templates34', 'templates36', 'templates120']|till hjälp har man skogsmaskiner såsom skördare och skotare.|vad gör man|har skogsmaskiner|0.03638|0.1663
+['templates121']|till hjälp har man skogsmaskiner såsom skördare och skotare.|vad gör man|har skogsmaskiner till hjälp|0.03638|0.1663
+['templates13', 'templates69']|till hjälp har man skogsmaskiner såsom skördare och skotare.|var har man|till hjälp|0.03222|0.1351
+
+
+['templates108']|meteorologer jobbar med att beräkna och förutsäga väder och klimat, både på kort och lång sikt.|vad gör meteorologer med att beräkna och förutsäga väder och klimat , både på kort och lång sikt?|jobbar|0.08070000000000001|0.1663
+
+['templates117']|anestesisjuksköterskan kan även delta i behandlingar vid livshotande tillstånd hos patienten, till exempel vid trafikolyckor och hjärtstillestånd.|vad kan anestesisjuksköterskan göra till exempel vid trafikolyckor och hjärtstillestånd?|delta|0.06142000000000001|0.1663
+['templates117']|anestesisjuksköterskan kan även delta i behandlingar vid livshotande tillstånd hos patienten, till exempel vid trafikolyckor och hjärtstillestånd.|vad kan anestesisjuksköterskan göra i behandlingar vid livshotande tillstånd hos patienten|delta|0.05990000000000001|0.1663
+
+['templates108']|på en uppvakningsavdelning arbetar anestesi- och intensivvårdssjuksköterskan med att övervaka patienterna efter operationen tills de kan förflyttas till en vårdavdelning.|vad gör anestesi- med att övervaka patienterna efter operationen tills de kan förflyttas till en vårdavdelning?|arbetar|0.053660000000000006|0.1663
+['templates233']|på en uppvakningsavdelning arbetar anestesi- och intensivvårdssjuksköterskan med att övervaka patienterna efter operationen tills de kan förflyttas till en vårdavdelning.|vad arbetar anestesi- och intensivvårdssjuksköterskan från|en uppvakningsavdelning|0.04142|0.1727
+
+['templates179']|● koppla ihop ledningar med styrprocesser|var finns styrprocesser?|ledningar|0.05862|0.2703
+
+['templates34']|till sin hjälp har elektrikern mätinstrument och testprogram.|vad gör elektrikern?|har mätinstrument|0.0427|0.1663
+['templates36', 'templates120']|till sin hjälp har elektrikern mätinstrument och testprogram.|vad gör elektrikern|har mätinstrument och testprogram|0.0427|0.1663
+['templates121']|till sin hjälp har elektrikern mätinstrument och testprogram.|vad gör elektrikern|har mätinstrument till sin hjälp|0.0427|0.1663
+['templates13', 'templates69']|till sin hjälp har elektrikern mätinstrument och testprogram.|var har elektrikern|till sin hjälp|0.03798|0.1351
+['templates73']|till sin hjälp har elektrikern mätinstrument och testprogram.|vad har elektrikern|testprogram|0.03246|0.1151
+['templates234']|till sin hjälp har elektrikern mätinstrument och testprogram.|vilka har mätinstrument och testprogram till sin hjälp|elektrikern|0.02942|0.1071
+['templates211']|till sin hjälp har elektrikern mätinstrument och testprogram.|vad har elektrikern på|mätinstrument|0.013739999999999999|0.0235
+
+['templates108']|arbeten på spåren sker ofta under stor tidspress för att tågtrafiken ska kunna rulla och inte stoppas upp i onödan.|vad gör arbeten för att tågtrafiken ska kunna rulla och inte stoppas upp i onödan?|sker|0.05022|0.1663
+['templates233']|arbeten på spåren sker ofta under stor tidspress för att tågtrafiken ska kunna rulla och inte stoppas upp i onödan.|vad sker arbeten på spåren från|stor tidspress|0.0403|0.1727
+['templates33']|arbeten på spåren sker ofta under stor tidspress för att tågtrafiken ska kunna rulla och inte stoppas upp i onödan.|vad gör arbeten på spåren|sker ofta under stor tidspress|0.03742|0.1663
+
+['templates61']|du ska lämna in din ansökan på en svensk ambassad eller generalkonsulat.|vad ska du göra?|lämna din ansökan på en svensk ambassad eller generalkonsulat|0.020360000000000003|0.081
+['templates129']|du ska lämna in din ansökan på en svensk ambassad eller generalkonsulat.|vad ska du göra|lämna ansökan|0.020360000000000003|0.081
+
+['templates57']|det är barnets vårdnadshavare eller gode man som ansöker om resedokument åt barnet.|vad är det?|vårdnadshavare|0.0387|0.1727
+['templates56']|det är barnets vårdnadshavare eller gode man som ansöker om resedokument åt barnet.|vad är det|vårdnadshavare eller gode man som ansöker om resedokument åt barnet|0.0387|0.1727
+
+
+['templates88']|uppehållstillståndskortet tillverkas i samband med att beslutet fattas, dock tidigast tre månader innan uppehållstillståndet börjar gälla.|vad tillverkas i med att beslutet fattas dock tidigast tre månader innan uppehållstillståndet börjar gälla?|uppehållstillståndskortet|0.013940000000000001|0.0085
+
+['templates61', 'templates129']|du kan få uppehållstillstånd för den tid som dina studier kräver, men aldrig för längre tid än ditt pass är giltigt.|vad kan du göra?|få uppehållstillstånd|0.03742|0.1663
+['templates226']|du kan få uppehållstillstånd för den tid som dina studier kräver, men aldrig för längre tid än ditt pass är giltigt.|vad kan du få|uppehållstillstånd|0.02718|0.1151
+
+['templates206']|man arbetar mycket med detaljer för att slutprodukten ska bli så komplett som möjligt och följa tanken eller idén med spelet.|var arbetar man mycket?|med detaljer|0.0603|0.2703
+['templates108']|man arbetar mycket med detaljer för att slutprodukten ska bli så komplett som möjligt och följa tanken eller idén med spelet.|vad gör man för att slutprodukten ska bli så komplett som möjligt och följa tanken eller idén med spelet|arbetar|0.059340000000000004|0.1663
+['templates13', 'templates69']|man arbetar mycket med detaljer för att slutprodukten ska bli så komplett som möjligt och följa tanken eller idén med spelet.|var arbetar man|med detaljer|0.05925999999999999|0.2703
+['templates195']|man arbetar mycket med detaljer för att slutprodukten ska bli så komplett som möjligt och följa tanken eller idén med spelet.|var arbetar mycket man|med detaljer|0.05526|0.2703
+['templates233']|man arbetar mycket med detaljer för att slutprodukten ska bli så komplett som möjligt och följa tanken eller idén med spelet.|vad arbetar man från|detaljer|0.038400000000000004|0.162
+['templates33']|man arbetar mycket med detaljer för att slutprodukten ska bli så komplett som möjligt och följa tanken eller idén med spelet.|vad gör man|arbetar mycket med detaljer|0.03638|0.1663
+
+
+['templates114']|efter din intervju skickas din ansökan till migrationsverket i sverige som handlägger och tar beslut i ärendet.|var skickas ansökan?|efter din intervju till migrationsverket|0.031580000000000004|0.1351
+['templates114']|efter din intervju skickas din ansökan till migrationsverket i sverige som handlägger och tar beslut i ärendet.|var skickas ansökan|efter din intervju i sverige som handlägger och tar beslut i ärendet|0.031580000000000004|0.1351
+['templates114']|efter din intervju skickas din ansökan till migrationsverket i sverige som handlägger och tar beslut i ärendet.|var skickas ansökan|i sverige som handlägger och tar beslut i ärendet efter din intervju|0.031580000000000004|0.1351
+['templates114']|efter din intervju skickas din ansökan till migrationsverket i sverige som handlägger och tar beslut i ärendet.|var skickas ansökan|i sverige som handlägger och tar beslut i ärendet till migrationsverket|0.031580000000000004|0.1351
+['templates114']|efter din intervju skickas din ansökan till migrationsverket i sverige som handlägger och tar beslut i ärendet.|var skickas ansökan|till migrationsverket efter din intervju|0.015380000000000001|0.0541
+['templates114']|efter din intervju skickas din ansökan till migrationsverket i sverige som handlägger och tar beslut i ärendet.|var skickas ansökan|till migrationsverket i sverige som handlägger och tar beslut i ärendet|0.015380000000000001|0.0541
+
+['templates117']|även vanidas barn ska följa med på intervjun.|vad ska barn göra på intervjun?|följa|0.038380000000000004|0.1663
+
+['templates13', 'templates69']|vanida bor i thailand och har träffat olle från sverige.|var bor vanida?|i thailand|0.03062|0.1351
+['templates233']|vanida bor i thailand och har träffat olle från sverige.|vad bor vanida från|thailand|0.0051400000000000005|0.0021
+
+['templates145']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra från den dag då du fick ta del av beslutet om migrationsverket avslår din ansökan om arbetstillstånd?|överklaga|0.06878000000000001|0.1663
+['templates145']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra inom tre veckor om migrationsverket avslår din ansökan om arbetstillstånd|överklaga|0.06254000000000001|0.1663
+['templates117']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra från den dag då du fick ta del av beslutet|överklaga|0.059980000000000006|0.1663
+['templates48']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra om migrationsverket avslår din ansökan om arbetstillstånd|överklaga beslutet|0.056620000000000004|0.1663
+['templates191']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan man göra om man avslår din ansökan om arbetstillstånd|överklaga från den dag då du fick ta del av beslutet|0.05598000000000001|0.1663
+['templates191']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan man göra om man avslår din ansökan om arbetstillstånd|överklaga inom tre veckor|0.05598000000000001|0.1663
+['templates117']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra inom tre veckor|överklaga|0.050460000000000005|0.1663
+['templates157']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra från dag|överklaga beslutet från den dag då du fick ta del av beslutet|0.047740000000000005|0.1663
+['templates157']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra från dag|överklaga beslutet inom tre veckor|0.047740000000000005|0.1663
+['templates157']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra från vecka|överklaga beslutet från den dag då du fick ta del av beslutet|0.047740000000000005|0.1663
+['templates157']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra från vecka|överklaga beslutet inom tre veckor|0.047740000000000005|0.1663
+['templates157']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra inom dag|överklaga beslutet från den dag då du fick ta del av beslutet|0.047740000000000005|0.1663
+['templates157']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra inom dag|överklaga beslutet inom tre veckor|0.047740000000000005|0.1663
+['templates157']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra inom vecka|överklaga beslutet från den dag då du fick ta del av beslutet|0.047740000000000005|0.1663
+['templates157']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra inom vecka|överklaga beslutet inom tre veckor|0.047740000000000005|0.1663
+['templates61', 'templates129']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du göra|överklaga beslutet|0.03742|0.1663
+['templates247']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du överklaga från den dag då du fick ta del av beslutet|beslutet från den dag då du fick ta del av beslutet|0.02842|0.0085
+['templates247']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du överklaga från den dag då du fick ta del av beslutet|beslutet inom tre veckor|0.02842|0.0085
+['templates30', 'templates31']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du överklaga om migrationsverket avslår din ansökan om arbetstillstånd|beslutet från den dag då du fick ta del av beslutet|0.025060000000000002|0.0085
+['templates30', 'templates31']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du överklaga om migrationsverket avslår din ansökan om arbetstillstånd|beslutet inom tre veckor|0.025060000000000002|0.0085
+['templates247']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du överklaga inom tre veckor|beslutet från den dag då du fick ta del av beslutet|0.0189|0.0085
+['templates247']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du överklaga inom tre veckor|beslutet inom tre veckor|0.0189|0.0085
+['templates226']|om migrationsverket avslår din ansökan om arbetstillstånd kan du överklaga beslutet inom tre veckor från den dag då du fick ta del av beslutet.|vad kan du överklaga|beslutet|0.00586|0.0085
+
+['templates55']|kortet är ett bevis på att du har tillstånd att vara i sverige och innehåller bland annat foto på dig och dina fingeravtryck.|vad är kortet?|bevis|0.02758|0.1151
+['templates1']|kortet är ett bevis på att du har tillstånd att vara i sverige och innehåller bland annat foto på dig och dina fingeravtryck.|vad är ett kortet|ett bevis på att du har tillstånd att vara i sverige och innehåller bland annat foto|0.0255|0.1151
+['templates1']|kortet är ett bevis på att du har tillstånd att vara i sverige och innehåller bland annat foto på dig och dina fingeravtryck.|vad är ett kortet|ett bevis på att du har tillstånd att vara i sverige och innehåller på dig och dina fingeravtryck|0.0255|0.1151
+
